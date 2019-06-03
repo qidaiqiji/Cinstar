@@ -30,7 +30,7 @@
     <script>
         let data = [
             {
-                imgSrc:'../images/rental/EC-showcase-1.jpg',
+                imgSrc:'../images/news/news-05-23.jpg',
                 title:'Cinstar launched its most practical rental LED display',
                 data:'2019-5-23',
                 detail:'In the past few months, the whole Cinstar R&D team was fighting on the design, test and improvement of our new rental LED display. It is EC series, the truly edge-cutting practical rental LED video display and now is ready to be launched to the market...',

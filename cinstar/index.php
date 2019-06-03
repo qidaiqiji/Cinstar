@@ -393,7 +393,7 @@
             <div class="news-list">
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2019-5-23.php">
-                        <img src="images/rental/EC-showcase-1.jpg" alt="Cinstar launched its most practical rental LED display"/>
+                        <img src="images/rental/23-rental-case.jpg" alt="Cinstar launched its most practical rental LED display"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">

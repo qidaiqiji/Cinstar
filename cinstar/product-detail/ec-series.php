@@ -22,7 +22,7 @@
         <div class="topContainer" style="margin-top:80px">
             <div class="topImg">
                 <img src="../images/products/Rental-LED/EC.jpg" alt="EC SERIES"/>
-                <h2 class="fantasy-title">
+                <h2 class="fantasy-title ec-title">
                 EC Series
                 </h2>
             </div>
@@ -204,15 +204,15 @@
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
-                    <img src="../images/rental/EC-showcase-1.jpg" alt="Charity Event EC 3.9 LED Video Screen LED Video Display"/>
+                    <img src="../images/rental/23-rental-case.jpg" alt="Charity Event EC 3.9 LED Video Screen LED Video Display"/>
                     <a class="case-title">
-                        <span class="current">Charity Event EC 3.9 LED Video Screen LED Video Display</span>
+                        <span class="current">Charity Event EC 3.9 LED Video Screen</span>
                     </a>
                 </div>
                 <div class="caseItem">
                     <img src="../images/rental/EC-showcase-2.jpg" alt="Award Ceremony EC 2.9 LED Video Screen LED Video Display"/>
                     <a class="case-title">
-                        <span class="current">Award Ceremony EC 2.9 LED Video Screen LED Video Display</span>
+                        <span class="current">Award Ceremony EC 2.9 LED Video Screen</span>
                     </a>
                 </div>
             </div>
@@ -514,10 +514,10 @@
                                 IP40/IP21
                             </td>
                             <td>
-                                IP40/IP54
+                                IP65/IP54
                             </td>
                             <td>
-                                IP40/IP54
+                                IP65/IP54
                             </td>
                         </tr>
                         <tr>
@@ -599,7 +599,7 @@
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR Series.jpg"  alt="CR Series"/>
+                        <img src="../images/home/CR SERIES.jpg" alt="CR Series"/>
                     </a>
                     <a class="list-title" href="../product-detail/cr-series.php">
                         <span class="current">CR SERIES</span><span class="more">View More</span>

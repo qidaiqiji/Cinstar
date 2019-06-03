@@ -188,6 +188,9 @@ table .thead{
     text-transform: uppercase;
     margin-top:40px;
 }
+.ec-title{
+    margin-top: 0.8rem;
+}
 .iconImg {
     width: 60%;
     margin: 40px auto;
@@ -201,6 +204,7 @@ table .thead{
     width: 50%;
     margin: 0.8rem auto;
     margin-bottom: 0.4rem;
+    margin-top:0.6rem;
 }
 .icon-box{
     text-align: center;
@@ -401,6 +405,14 @@ table .thead{
     .caseItem .case-title {
         height: 60px;
         line-height: 60px;
+    }
+    .icon-item{
+        width: 0.6rem;
+        height: 0.6rem;
+        line-height: 0.6rem;
+    }
+    .icon-item .iconfont{
+        font-size: 0.6rem;
     }
 }
 @media (min-width: 1331px){
