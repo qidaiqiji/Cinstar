@@ -53,9 +53,13 @@
 }
 @media (max-width:767px) {
     .gallery-left p {
-        padding:4px 20px;
+        padding:4px 10px;
         margin:0;
         font-size: 9px;
+    }
+    .gallery-left h3{
+        padding: 4px 10px;
+        margin: 0;
     }
     .gallery-item {
         height: 100px;
