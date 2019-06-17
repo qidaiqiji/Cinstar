@@ -2,14 +2,14 @@
     <div class="header">
         <div class="header-inner">
             <!-- <h1> -->
-                <a href="../home" class="header-logo">
+                <a href="../" class="header-logo">
                     <img src="../images/logo.png" alt="Cinstar"/>
                 </a>
             <!-- </h1> -->
             <div class="header-menu mobile-menu" id="header-menu">
                 <ul class="header-menu-ul">
                     <li class="menu-item" id="in0">
-                        <a href="../home" class="menu-link">HOME</a>
+                        <a href="../" class="menu-link">HOME</a>
                         <div class="subMenu">
                             <ul class="subMenu-ul"></ul>
                         </div>
