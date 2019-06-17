@@ -125,7 +125,7 @@ table .thead{
     /* height: 480px; */
     display: flex;
     justify-content: space-between;
-    /* background: #010101; */
+    background: #010101;
     flex-wrap: wrap;
     margin-bottom: 150px;
 }
