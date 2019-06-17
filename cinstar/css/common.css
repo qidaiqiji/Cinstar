@@ -362,7 +362,7 @@ h1{
     display: inline-block;
     color:#fff;
     line-height: 30px;
-    font-size: 13px;
+    font-size: 0.11rem;
 }
 .footer-detail .adderss{
     line-height: 20px;
@@ -400,9 +400,12 @@ textarea{
     text-align: center;
     line-height: 30px;
     font-family: 'eurostile';
+    font-weight: bold;
+    font-size: 0.12rem;
 }
 .submit:hover{
     background: #bc261a;
+    color: #fff;
 }
 .footer-detail .phone{
     font-size: 12px;
@@ -416,7 +419,7 @@ textarea{
 .footer-social a{
     width: 20%;
     color:#fff;
-    font-size: 18px;
+    font-size: 22px;
 }
 .copy{
     width: 100%;

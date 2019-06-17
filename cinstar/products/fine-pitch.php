@@ -77,7 +77,7 @@
                     </ul>
                 </div>
                 <div>
-                    <a class="read-more" href="../product-detail/hd-series.php">Read More</a>
+                    <a class="read-more" href="../product-detail/hd-series.php"><i class="fa fa-caret-right right"></i>Read More</a>
                 </div>
             </div>
         </div>
@@ -139,7 +139,7 @@
                     </ul>
                 </div>
                 <div>
-                    <a class="read-more" href="../product-detail/nl-series.php">Read More</a>
+                    <a class="read-more" href="../product-detail/nl-series.php"><i class="fa fa-caret-right right"></i>Read More</a>
                 </div>
             </div>            
         </div>

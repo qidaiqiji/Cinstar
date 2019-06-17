@@ -127,7 +127,10 @@ table .thead{
     justify-content: space-between;
     background: #010101;
     flex-wrap: wrap;
+}
+.db-desc{
     margin-bottom: 150px;
+    background: #fff;
 }
 
 .product-desc .left-img{
@@ -137,7 +140,7 @@ table .thead{
     width: 43%;
 }
 .product-desc .right-desc{
-    width: 48%;
+    width: 47%;
     /* height: 100%; */
     background: #010101;
     padding: 0.3rem 0.7rem;
@@ -148,9 +151,7 @@ table .thead{
     flex-direction: column;
     justify-content: center;
 }
-.left-desc {
 
-}
 .product-desc .text-long {
     width: 47%;
     padding: 0.3rem;
@@ -338,7 +339,7 @@ table .thead{
 }
 .show-cases {
     width: 100%;
-    padding: 0.5rem 0;
+    padding: 0.7rem 0;
     background: #010101;
     text-align: center;
     color:#fff;

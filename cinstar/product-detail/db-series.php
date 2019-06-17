@@ -79,7 +79,7 @@
             </div>
         </div>
         <!-- 产品详情 -->
-        <div class="product-desc">
+        <div class="product-desc db-desc">
             <div class="left-img half-width"> 
                 <img src="../images/products/Commercial-LED/DB-Case-Show.jpg" alt="DB-Case-Show"/>
             </div>
@@ -90,7 +90,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
                 <p>Cinstar DB series LED video display adopts high strength die-cast aluminum and magnesium cabinet, only 32kg/sqm, easier to install. Its excellent heat dissipation makes the cooling system not needed even for a giant LED screen display.</p> 
             </div>
         </div>
-        <div class="product-desc">
+        <div class="product-desc db-desc">
             <div class="right-desc half-width" style="background:#fff;color:#000">
                 <h2 class="title">High Stability & Energy Saving</h2>
                 <p>Featuring the patented LEDs, Cinstar DB series LED display module reaches the highest IP rating (IP68) and secures its working temperature from +100 to -40. The unparalleled stability enables it the best choice for harsh environment installations like seaside and tropical areas.</p>

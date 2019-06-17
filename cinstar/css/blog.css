@@ -47,7 +47,7 @@
     /* border-radius: 20px; */
 }
 .blog-content{
-    padding: 20px 20px;
+    padding: 0.2rem;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -66,7 +66,7 @@
 .brief-desc{
     width: 100%;
     line-height: 28px;
-    font-size: 16px;
+    font-size: 0.13rem;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 4;
@@ -84,18 +84,27 @@
     margin-left: 6px;
 }
 .blog-date{
-    padding: 10px 20px;
+    padding: 0.1rem 0.2rem;
     border-top: 1px solid #ccc;
     box-sizing: border-box;
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
-    /* text-align: center; */
-    margin-top: 20px;
+    margin-top: 0.2rem;
     box-sizing: border-box;
 }
 /* 响应式 */
+@media (min-width:1400px){
+    .img-box img {
+        height: auto;
+    }
+    .brief-desc{
+        line-height: 40px;
+        -webkit-line-clamp:6
+    }
+    
+}
 @media (max-width:1200px){
     .bg{
         margin-top: 0;

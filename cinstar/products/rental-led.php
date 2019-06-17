@@ -77,7 +77,7 @@
                     </ul>
                 </div>
                 <div>
-                    <a class="read-more" href="../product-detail/ec-series.php">Read More</a>
+                    <a class="read-more" href="../product-detail/ec-series.php"><i class="fa fa-caret-right right"></i>Read More</a>
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@
                     </ul>
                 </div>
                 <div>
-                    <a class="read-more" href="../product-detail/cr-series.php">Read More</a>
+                    <a class="read-more" href="../product-detail/cr-series.php"><i class="fa fa-caret-right right"></i>Read More</a>
                 </div>
             </div>            
         </div>
@@ -203,7 +203,7 @@
                     </ul>
                 </div>
                 <div>
-                    <a class="read-more" href="../product-detail/lm-series.php">Read More</a>
+                    <a class="read-more" href="../product-detail/lm-series.php"><i class="fa fa-caret-right right"></i>Read More</a>
                 </div>
             </div>
         </div>
@@ -267,7 +267,7 @@
                     </ul>
                 </div>
                 <div>
-                    <a class="read-more" href="../product-detail/vx-series.php">Read More</a>
+                    <a class="read-more" href="../product-detail/vx-series.php"><i class="fa fa-caret-right right"></i>Read More</a>
                 </div>
             </div>
         </div>
