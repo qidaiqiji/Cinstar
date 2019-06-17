@@ -17,9 +17,9 @@
                 <a href="../gallery">GALLERY</a>
             </div>
             <div class="footer-detail">
-                <p><a href="../gallery/rental-cases.php">Rental Event Cases</a></p>
-                <p><a href="../gallery/fixed-cases.php">Fixed Install Cases</a></p>
-                <p><a href="../gallery/fine-pitch-cases.php">Fine Pitch Cases</a></p>
+                <p><a href="../gallery-detail/rental-cases.php">Rental Event Cases</a></p>
+                <p><a href="../gallery-detail/fixed-cases.php">Fixed Install Cases</a></p>
+                <p><a href="../gallery-detail/fine-pitch-cases.php">Fine Pitch Cases</a></p>
             </div>
         </div>
         <div class="footer-item input-item">
