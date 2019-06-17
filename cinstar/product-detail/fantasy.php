@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Eye-catching 3D hologram LED fan I Best choice for retail stores</title>
+    <title>3D Hologram LED Fan | 3D Holographic LED Display</title>
     <meta name="description" content="Eye-catching holographic style image that attracts attentions immediately Perfect traffic catcher for business. Extremely easy installation that fit in all environment. Portable for trade shows and rentals" />
     <meta name="keywords" content="holograhpic LED fan, 3D LED fan, 3D LED display, 3D holographic LED fan" />
 </head>
@@ -58,8 +58,8 @@ Cinstar is a professional experienced holograhpic LED fan, 3D LED fan, 3D LED di
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

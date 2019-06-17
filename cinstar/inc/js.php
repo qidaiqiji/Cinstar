@@ -69,7 +69,7 @@
 			case "products": $("#in02").addClass("menu-active"); break;
             case "markets": $("#in03").addClass("menu-active"); break;
 			case "gallery": $("#in04").addClass("menu-active"); break;
-			case "support": $("#in05").addClass("menu-active"); break;
+			case "led-academy": $("#in05").addClass("menu-active"); break;
             case "news": $("#in06").addClass("menu-active"); break;
 			case "contact": $("#in07").addClass("menu-active"); break;
 			default: level1 = "";
@@ -91,4 +91,25 @@
         });
 
     }
+</script>
+<script>
+    $(".target").click(function () {
+    $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -100+ "px"}, 500);
+        return false;
+    });
+    const messageLeft = $(".message-box").offset().left;
+    const messageTop = $(".message-box").offset().top;
+    const messageWidth = $(".content-container").innerWidth();
+    const footerTop = $(".footer").offset().top;
+    $(window).scroll(function(){
+        if($(window).scrollTop()>messageTop && $(window).scrollTop()<footerTop-100) {
+            $(".message-box").addClass("fix");
+            $(".message-box").css({
+                'left':messageLeft,
+                'width':messageWidth*0.3,
+            })
+        }else{
+            $(".message-box").removeClass("fix")
+        }
+    })
 </script>

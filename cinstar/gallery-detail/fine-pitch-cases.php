@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/galleryDetail.css">
-    <title>Narrow pixel pitch LED screen | Cinstar, fine pitch LED wall</title>
+    <title>Narrow Pixel Pitch LED Screen | Cinstar-led, Fine Pitch LED Wall</title>
     <meta name="description" content="Cinstar direct view LED display is ideal for high-end installations at conference room, meeting room, board room, control room, monitor room and TV studios where superb image quality is a must." />
     <meta name="keywords" content="Narrow pixel pitch LED screen, fine pitch LED wall, LED display factory, LED display price, LED screen for sale, LED signage screen, big LED display wall" />
 </head>

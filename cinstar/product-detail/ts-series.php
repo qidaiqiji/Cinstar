@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>LED window display | Cinstar, LED curtain wall, LED curtain display</title>
+    <title>LED Window Display | Cinstar-led, LED Curtain Wall | LED Curtain Display</title>
     <meta name="description" content="Cinstar LED window display TS series with great transparency which ensures no any daylight or vision will be blocked out. The high brightness of the LED curtain wall and supreme image of the LED curtain display assures superb visual performance at any installation environments." />
     <meta name="keywords" content="LED window display, LED curtain wall, LED curtain display, indoor fixed LED display, indoor commercial LED screen, transparent LED wall, cylinder LED display" />
 </head>
@@ -83,15 +83,16 @@
                     <img src="../images/products/Creative-LED/TS-Series1.jpg" alt="TS-Series"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">HIGH TRANSPARENCY LED VIDEO DISPLAY</h2>
+                    <h2 class="title">High Transparency LED Video Display</h2>
                     <p>
                     High transparency (up to 70%) ensures no any daylight or vision will be blocked out. High brightness of 3000-6000nits assures superb visual performance at any installation environments. Pixel pitch ranges from 2.8mm to 10.4mm.
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">FLEXIBLE PANEL FOR OPTION</h2>
+                    <h2 class="title">Flexible Panel For Option</h2>
                     <p>                    
                     Cinstar TS series LED video display offers different panel designs for specific installations. It can be flat or flexible to create eye-catching design like big wave or cylinder screens. A perfect choice for shopping mall, Auto 4S store, exhibitions, concert and theater installations. What is more, the LED display panel can be customized to meet the glass wall building installation.
                     </p>
@@ -100,12 +101,13 @@
                     <img src="../images/products/Creative-LED/TS-Series2.jpg" alt="TS-Series"/>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
                     <img src="../images/products/Creative-LED/TS-Series3.jpg" alt="TS-Series"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">EXQUISITE AESTHETIC DESIGN</h2>
+                    <h2 class="title">Exquisite Aesthetic Design</h2>
                     <p>
                     All cables hidden inside the rear vertical power box to make sure the whole screen looks concise and clean. The customizable color of panel frame makes it possible to merge into surroundings, which is perfect to achieve an immersive visual experience.
                     </p>
@@ -115,7 +117,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>TS SERIES SHOWCASE</span>
+                <span>TS Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -134,7 +136,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -552,8 +554,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

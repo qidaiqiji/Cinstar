@@ -14,13 +14,12 @@
         </div>
         <div class="footer-item footer-gallery">
             <div class="footer-title">
-                <a href="../markets">MARKETS</a>
+                <a href="../gallery">GALLERY</a>
             </div>
             <div class="footer-detail">
-                <p><a href="../markets/">Rental Event</a></p>
-                <p><a href="../markets/fine-pitch.php">Fine Pitch</a></p>
-                <p><a href="../markets/creative.php">Creative</a></p>
-                <p><a href="../markets/commercial.php">Commercial</a></p>
+                <p><a href="../gallery/rental-cases.php">Rental Event Cases</a></p>
+                <p><a href="../gallery/fixed-cases.php">Fixed Install Cases</a></p>
+                <p><a href="../gallery/fine-pitch-cases.php">Fine Pitch Cases</a></p>
             </div>
         </div>
         <div class="footer-item input-item">

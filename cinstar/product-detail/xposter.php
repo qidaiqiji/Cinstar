@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Poster LED display I Cinstar, creative LED display, screen, panel</title>
+    <title>Poster LED Display | Cinstar-led, Creative LED Display, Screen, Panel</title>
     <meta name="description" content="Cinstar Xposter is widely used in clothes stores, shopping malls, exhibitions, hotels and wedding ceremony etc. Its exquisite appearance, outstanding performance and versatile function makes it the first option for commercial advertising." />
     <meta name="keywords" content="Poster LED display, advertising LED poster, advertising digital poster, commercial digital LED poster, LED digital poster screen, LED digital poster display" />
 </head>
@@ -23,7 +23,7 @@
         </div>
         <div class="table-detail xposter-table">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -236,8 +236,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

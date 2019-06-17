@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>HD LED display | Cinstar, LED video wall display, 4K LED screen wall</title>
+    <title>HD LED Display | Cinstar-led, LED Video Wall Display, 4K LED Screen Wall</title>
     <meta name="description" content="Cinstar HD series offers the finest HD LED display suitable for the most demanding applications where a 2K or 4K LED screen wall is a need in a fixed installation environment. Need a high quality LED video wall display for your project? Cinstar has what you need!" />
     <meta name="keywords" content="hd LED display, LED video wall display, 4K LED screen wall, UHD LED video screen, large-format LED signage, mobile LED TV, 1.56mm LED display, 1.2mm LED screen panel" />
 </head>
@@ -85,15 +85,16 @@
                     <img src="../images/products/Fine-Pitch/HD-SERIES1.jpg" alt="HD SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">ULTRA HIGH DEFINITION LED VIDEO DISPLAY</h2>
+                    <h2 class="title">Ultra High Definition LED Video Display</h2>
                     <p>
                     Cinstar HD series LED video display offers the current finest pixel pitch LED screen display solutions for the most direct-view applications where a narrow pixel pitch LED video screen is needed in a fixed installation environment such as TV broadcasting studios, traffic control rooms, boardrooms etc. Pixel pith available from 0.9mm to 2.3mm
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">VERSATILE INSTALLATION SOLUTIONS</h2>
+                    <h2 class="title">Versatile Installation Solutions</h2>
                     <p>
                     Cinstar HD Series LED video display optimizes all the possible installations including wall mounting, hanging or ground supporting. It can be a giant video wall to control room, UHD TV to home cinema or smart poster screen for commercial advertising. Both front or rear service is optional and can be customized for specific projects.
                     </p>
@@ -102,20 +103,22 @@
                     <img src="../images/products/Fine-Pitch/HD-SERIES2.jpg" alt="HD SERIES"/>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/HD-SERIES3.jpg" alt="HD SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">CONCISE AND CLEAN APPEARANCE</h2>
+                    <h2 class="title">Concise And Clean Appearance</h2>
                     <p>
                     Cinstar HD Series LED video display applies innovative jumper cable free connection, ensuring super clean rear appearance and great visual enjoyment. No jumper cable design makes an easier installation work on site and secures better stability and lower failure rate.
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">EXCEPTIONAL VISUAL EXPERIENCE</h2>
+                    <h2 class="title">Exceptional Visual Experience</h2>
                     <p>
                     The sleek and seamless high definition LED video display is capable of delivering an optimal visual performance with high refresh rate, excellent greyscale levels, high contrast ratio and wide color gamut. The ultra-high precision CNC die-casting aluminum panel allowing excellent heat dissipation for enhanced power efficiency and silent performance.
                     </p>
@@ -128,7 +131,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>HD SERIES FEATURES</span>
+                <span>HD Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -173,7 +176,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>HD SERIES SHOWCASE</span>
+                <span>HD Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -192,7 +195,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -566,13 +569,13 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">
                     <a class="thumb" href="../product-detail/nl-series.php">
-                        <img src="../images/home/NL Series.jpg"  class="short" alt="NL Series"/>
+                        <img src="../images/home/NL Series.jpg"  class="short thumb-bigger" alt="NL Series"/>
                     </a>
                     <a class="list-title" href="../product-detail/nl-series.php">
                         <span class="current">NL SERIES</span><span class="more">View More</span>

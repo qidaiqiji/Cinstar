@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/contact.css">
-    <title>Contact us | Cinstar LED display, screen, LED display manufacturer</title>
+    <title>Contact us | Cinstar LED Display, Screen, LED Display Manufacturer</title>
     <meta name="description" content="CONTACT US. Headquater: Building A, Hengchangrong technology park,Shiyan street, Boan district, Shenzhen, China  PHONE CALL+86-183 2088 9297 E-MAIL: sales@cinstar-LED.com" />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, LED screen company, LED display manufacturer, LED screen supplier, LED display supplier" />
 </head>

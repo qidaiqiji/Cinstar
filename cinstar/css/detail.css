@@ -61,7 +61,7 @@
     height: 100%;
 }
 table{
-    font-size: 0.1rem;
+    font-size: 0.13rem;
     width: 90%;
 }
 td{
@@ -77,20 +77,21 @@ table .thead{
     font-size: 18px;
     text-transform: uppercase;
 }
-.key-feature{
-    font-size: 0.11rem;
-}
+
 .key-feature div{
     margin: 20px 0;
     text-transform: uppercase;
     margin-bottom: 14px;
+    font-size: 22px;
+    font-weight: bold;
 }
 .key-feature ul{
     list-style: disc;
     padding: 0 10px;
+    font-size: 0.13rem;
 }
 .key-feature li{
-    line-height: 22px;
+    line-height: 26px;
 }
 .product-img{
     width: 34%;
@@ -121,10 +122,12 @@ table .thead{
 }
 .product-desc {
     width: 100%;
-    height: 480px;
+    /* height: 480px; */
     display: flex;
-    justify-content: center;
-    background: #010101;
+    justify-content: space-between;
+    /* background: #010101; */
+    flex-wrap: wrap;
+    margin-bottom: 150px;
 }
 
 .product-desc .left-img{
@@ -135,7 +138,7 @@ table .thead{
 }
 .product-desc .right-desc{
     width: 48%;
-    height: 100%;
+    /* height: 100%; */
     background: #010101;
     padding: 0.3rem 0.7rem;
     color:#fff;
@@ -149,7 +152,7 @@ table .thead{
 
 }
 .product-desc .text-long {
-    width: 57%;
+    width: 47%;
     padding: 0.3rem;
 }
 .product-desc .right-desc p{
@@ -165,10 +168,11 @@ table .thead{
     font-size: 0.22rem;
 }
 .product-desc .left-img img{
+    width: 100%;
     height: 100%;
 }
 .product-desc .half-width{
-    width: 50%;
+    width: 47%;
 }
 .topContainer{
     margin-top:130px;
@@ -189,7 +193,7 @@ table .thead{
     margin-top:40px;
 }
 .ec-title{
-    margin-top: 0.8rem;
+    margin-top: 0.5rem;
 }
 .iconImg {
     width: 60%;
@@ -204,7 +208,7 @@ table .thead{
     width: 50%;
     margin: 0.8rem auto;
     margin-bottom: 0.4rem;
-    margin-top:0.6rem;
+    margin-top:0.5rem;
 }
 .icon-box{
     text-align: center;
@@ -276,13 +280,14 @@ table .thead{
     justify-content: center;
 }
 .desc-part .title{
-    font-size: 0.22rem;
+    font-size: 0.2rem;
     padding-bottom: 0.3rem;
     line-height: 0.3rem;
+    font-weight: bold;
 }
 
 .desc-part p{
-    font-size: 0.11rem;
+    font-size: 0.13rem;
     line-height: 0.3rem;
 }
 .features{
@@ -293,7 +298,7 @@ table .thead{
     text-align: center;
 }
 .sub-title span{
-    font-size: 0.24rem;
+    font-size: 34px;
     position: relative;
     text-transform: uppercase;
 }
@@ -303,7 +308,7 @@ table .thead{
     height: 1px;
     background: #fff;
     position: absolute;
-    top: 0.3rem;
+    top: 0.4rem;
     left: 50%;
     margin-left: -35%;
 }
@@ -329,7 +334,7 @@ table .thead{
     text-align: center;
     width: 100%;
     margin-top: 0.16rem;
-    font-size:0.12rem;
+    font-size:0.13rem;
 }
 .show-cases {
     width: 100%;
@@ -354,7 +359,7 @@ table .thead{
     line-height: 40px;
     color:#fff;
     text-align: center;
-    font-size: 16px;
+    font-size: 0.13rem;
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
 }
@@ -367,6 +372,7 @@ table .thead{
     margin-bottom: 0;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .img-wrap .caseItem{
     width: 48%;
@@ -388,10 +394,11 @@ table .thead{
 .xposter-table{
     margin-top:0;
 }
-.table-detail .sub-title span::after {
+.table-detail .sub-title span::after, .related .sub-title span::after{
     background: #bc261a;
 }
 .table-wrap table{
+    font-size: 0.1rem;
     width: 100%;
 }
 .table-wrap{
@@ -399,6 +406,7 @@ table .thead{
 }
 .related{
     margin: 0.5rem 0;
+    text-align: center;
 }
 
 @media (min-width: 1550px) {
@@ -459,12 +467,13 @@ table .thead{
         margin-bottom: 0;
     }
     .key-feature ul{
-        font-size: 12px;
+        font-size: 14px;
     }
     .img-wrap .caseItem{
         height: auto;
     }
 }
+
 @media (min-width: 768px) and (max-width:1023px){
     .left-img{
         width: 80%;
@@ -478,19 +487,75 @@ table .thead{
     .detail{
         margin:0 auto;
     }
+    .icons{
+        width: 65%;
+    }
+    .icon-box{
+        font-size: 16px;
+    }
+    .desc-part p{
+        font-size: 0.15rem;
+        line-height: 0.25rem;
+    }
+    .desc-part .title{
+        padding-bottom: 0.1rem;
+    }
 }
-@media (max-width: 767px){
-    .specification{
+@media (max-width: 768px){
+    .product-desc{
+        height: auto;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+    .product-desc .left-img, .product-desc .right-desc{
         width: 90%;
     }
-    .key-feature div{
+    .product-desc .left-img {
+        order: 1;
+
+    }
+    .product-desc .right-desc{
+        order: 2;
+    }
+    .product-desc .right-desc .title{
+        text-align: center;
+        margin: 0.12rem 0;
+
+    }
+    .product-desc .right-desc p{
+        font-size: 0.13rem;
+        text-align: center;
+        line-height: 26px;
+    }
+
+
+}
+@media(min-width:601px) {
+    .under-line {
+        display: none;
+    }
+}
+
+@media (max-width: 600px){
+    .title span{
+        font-size: 24px;
+    }
+    .top-title{
         font-size: 14px;
+        font-weight: bold;
+    }
+    .specification{
+        width: 90%;
+        flex-wrap: wrap;
+        margin-top: 0;
+        justify-content: center;
+        margin-bottom: 50px;
     }
     .spec-detail table{
         display: none;
     }
     table{
-        font-size: 0.1rem;
+        /* font-size: 0.1rem; */
         width: 100%;
     }
     .product-img{
@@ -499,30 +564,57 @@ table .thead{
     }
     .key-feature ul{
         padding: 0;
-        font-size: 10px;
+        font-size: 16px;
+        /* text-align: center; */
+        width: 90%;
+        margin: 0 auto;
+        line-height: 24px;
+        margin-left: 30px;
     }
     .key-feature li{
-        line-height: 0.24rem;
+        /* line-height: 0.24rem; */
         margin-top:4px;
     }
     .key-feature div{
-        margin-top:0;
+        font-size:20px;
+        font-weight: bold;
+        text-align: center;
     }
     .lower{
         height: 100%;
     }
     .detail{
         height: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin: 30px auto;
     }
     .half{
+        width:100%;
         height: 100%
+    }
+    .topContainer .topImg{
+        width: 78%;
+    }
+    .img-part{
+        width: 80%;
+        order: 1;
     }
     .mobile-hide{
         display: none;
     }
     .desc-part .title{
-        font-size: 10px;
-        padding-bottom: 4px;
+        font-size: 18px;
+        margin: 20px 0;
+        padding-bottom: 0;
+        margin-top: 30px;
+        text-align: center;
+        line-height: 24px;
+    }
+    .desc-part{
+        align-items: center;
+        order: 2;
     }
     .table-detail{
         display: none;
@@ -544,8 +636,11 @@ table .thead{
         width:100%;
     }
     .product-desc .right-desc p{
-        line-height: 16px;
-        font-size: 10px;
+        line-height: 26px;
+        font-size: 16px;
+    }
+    .ft-series .desc-part p{
+        line-height: 24px;
     }
     .product-box{
         margin-top: 40px;
@@ -554,14 +649,73 @@ table .thead{
         margin-top:50px;
     }
     .icon-desc{
-        font-size: 9px;
+        font-size: 14px;
     }
     .caseItem .case-title{
-        height: 20px;
-        line-height: 20px;
-        font-size: 10px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
     }
     .desc-part p{
-        font-size: 10px;    
+        font-size: 16px;    
+        line-height: 24px;
+        text-align: center;
+    }
+    .icons{
+        width: 92%;
+        justify-content: space-around;
+        margin-top:0.2rem;
+    }
+    .icon-box{
+        font-size: 12px;
+        text-align: center;
+    }
+    .under-line {
+        border: none;
+        border-bottom: 1px solid #e1dfdf;
+    }
+    .product-img{
+        width: 80%;
+        order:1;
+
+    }
+    .spec-detail{
+        width: 100%;
+        order:2
+    }
+    .sub-title span{
+        font-size: 24px;
+    }
+    .sub-title span::after{
+        top:0.6rem;
+    }
+    .tr-icons .iconItems{
+        width: 45%;
+    }
+    .iconItems{
+        width: 45%;
+    }
+    .iconCricle{
+        width: 0.5rem;
+        height: 0.5rem;
+    }
+    .iconCricle i{
+        font-size: 24px;
+    }
+    .img-wrap{
+        justify-content: center;
+    }
+    .img-wrap .caseItem{
+        width: 90%;
+        margin-top: 10px;
+
+    }
+    .thumb .thumb-bigger{
+        width: 80%;
+
+    }
+    .product-desc .right-desc .title{
+        font-size: 20px;
+        font-weight: bold;
     }
 }

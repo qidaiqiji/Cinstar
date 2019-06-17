@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Rental LED display | LED screen rental, rental event LED screen</title>
+    <title>Rental LED display | LED Screen Rental, Rental Event LED Screen</title>
     <meta name="description" content="Cinstar rental LED display LM series panels featuring lightweight die cast aluminum frame and easy to use reliable locking system to ensure quick seamless installations. Come and check details of this rental event LED screen." />
     <meta name="keywords" content="rental LED display, indoor rental LED display, p3.9 LED display, Indoor stage rental, rental LED panel, rental LED tiles, rental LED module, Rental events LED display board" />
 </head>
@@ -80,11 +80,11 @@
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
-            <div class="left-img" style="width:50%">
+            <div class="left-img">
                 <img src="../images/products/Rental-LED/LM-Case-Show.jpg" alt="LM-Case-Show"/>
             </div>
             <div class="right-desc text-long">
-                <h2 class="title">QUICK AND EASY LED DISPLAYS</h2>
+                <h2 class="title">Quick And Easy LED Displays</h2>
                 <p>Designed specifically for quick and easy rental events markets, Cinstar LM series LED video panels adopt high-precise and lightweight die-casting aluminum frame and easy to use reliable locking system to ensure quick installation and seamless image quality.</p>
                 <p>Featuring high brightness LEDs, Cinstar LM series LED video displays deliver a great visual performance in any light condition. No matter it is outdoor sport event or live broadcast from mobile LED video display, the spectators can always get the vivid and clear images.</p>  
                 <p>The integrated modular control unit at the back which containing power supply and receiving card, can be easily replaced even on site, reducing the servicing time and eliminate any unexpected surprises.  </p> 
@@ -95,7 +95,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>LM SERIES FEATURES</span>
+                <span>LM Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -140,7 +140,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>LM SERIES SHOWCASE</span>
+                <span>LM Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -159,7 +159,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -597,8 +597,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

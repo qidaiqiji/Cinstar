@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Outdoor LED display board | Cinstar, digital billboard advertising</title>
+    <title>Outdoor LED Display Board | Cinstar-led, Digital Billboard Advertising</title>
     <meta name="description" content="Cinstar outdoor LED display board DB series adopts high strength die-cast aluminum and magnalium cabinet for better digital billboard advertising.  Its excellent heat dissipation makes the cooling system not needed even for giant display wall." />
     <meta name="keywords" content="outdoor LED display board, digital billboard advertising, large screen display, outdoor LED wall screens, electric LED signs, advertising display board, outdoor LED advertising screens" />
 </head>
@@ -79,21 +79,20 @@
             </div>
         </div>
         <!-- 产品详情 -->
-        <div class="product-desc" style="margin-bottom:100px">
+        <div class="product-desc">
             <div class="left-img half-width"> 
                 <img src="../images/products/Commercial-LED/DB-Case-Show.jpg" alt="DB-Case-Show"/>
             </div>
             <div class="right-desc half-width" style="background:#fff;color:#000">
-                <h2 class="title">HIGH PROFILE MEDIA SOLUTIONS</h2>
+                <h2 class="title">High Profile Media Solutions</h2>
                 <p>Cinstar DB series LED video display is specially designed for high end outdoor commercial advertising applications. Pixel pitch available from 4mm to 10mm.
 The display system is with high brightness (up to 7000nits), high refresh rate (>2880Hz) and high grey scale (16bit), which ensuring the superb visual performance and excellent contrast ratio in any light condition.</p>
                 <p>Cinstar DB series LED video display adopts high strength die-cast aluminum and magnesium cabinet, only 32kg/sqm, easier to install. Its excellent heat dissipation makes the cooling system not needed even for a giant LED screen display.</p> 
             </div>
         </div>
         <div class="product-desc">
-            
             <div class="right-desc half-width" style="background:#fff;color:#000">
-                <h2 class="title">HIHG STABILITY & ENERGY SAVING</h2>
+                <h2 class="title">High Stability & Energy Saving</h2>
                 <p>Featuring the patented LEDs, Cinstar DB series LED display module reaches the highest IP rating (IP68) and secures its working temperature from +100 to -40. The unparalleled stability enables it the best choice for harsh environment installations like seaside and tropical areas.</p>
                 <p>Cinsatr DB series LED video display offers the energy saving solution for option. By adopting the customized LEDs, power supply and driver IC, the brightness can reach up to 6000-7000nits while its power consumption can be at least 50% less. The operation cost is tremendously lowered for the long run. </p> 
                 <p>Cinstar DB series LED video display offers both front and rear service access for options.</p>
@@ -106,7 +105,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>DB SERIES FEATURES</span>
+                <span>DB Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -151,7 +150,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>DB SERIES SHOWCASE</span>
+                <span>DB Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -170,7 +169,7 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -588,8 +587,8 @@ The display system is with high brightness (up to 7000nits), high refresh rate (
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

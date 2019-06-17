@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Video wall display | Cinstar, narrow pixel pitch LED, LED video screen</title>
+    <title>Video Wall Display | Cinstar-led, 4K LED Display | LED Video Screen</title>
     <meta name="description" content="Cinstar NL series video wall display provides a superior HD image with high contrast ratio 6000:1, deep blacks and vibrant colours. The test qualified narrow pixel pitch LED is guaranteed that is will be a flawless LED video screen for your TV production." />
     <meta name="keywords" content=" video wall display, narrow pixel pitch LED, LED video screen, conference room LED screen, fine pitch LED video panel, LED screen message board, 2K video wall display" />
 </head>
@@ -85,15 +85,16 @@
                     <img src="../images/products/Fine-Pitch/NL-Series-2.jpg" alt="NL SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">SUPERB VISUAL IMPACT</h2>
+                    <h2 class="title">Superb Visual Impact</h2>
                     <p>
                         Featuring the Black LEDs, the NL series panels provide a superior HD image with high contrast ratio 6000:1, high refresh rate to 3840Hz, deep blacks and vibrant colours. High quality image output is guaranteed for TV productions. The pixel pitches range from 1.2mm to 1.9mm.
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">SEAMLESS SCREEN CONNECTION</h2>
+                    <h2 class="title">Seamless Screen Connection</h2>
                     <p>
                         The panel construction is of ultra-high precision die-cast aluminium with tolerance  &lt; 0.2mm. In addition, it is capable of module-level fine adjustment, which ensures truly seamless connection and excellent image quality.
                     </p>
@@ -102,20 +103,22 @@
                     <img src="../images/products/Fine-Pitch/NL.jpg" alt="NL SERIES"/>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
                     <img src="../images/products/Fine-Pitch/NL-Series-4.jpg" alt="NL SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">EXTREMELY WIDE VIEWING ANGLE</h2>
+                    <h2 class="title">Extremely Wide Viewing Angle</h2>
                     <p>
                         Black LEDs with optically trap lampshade to provide significant optical effect. The ultra wide viewing angle 160° enables spectators at any angle can enjoy a great visual experience. The NL Series is capable of various installations like wall mounting, hanging or ground stacking. 
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">EASY MAINTENANCE AND  MULTIPLE INSTALLATIONS</h2>
+                    <h2 class="title">Easy Maintenance And  Multiple Installations</h2>
                     <p>
                         Cinstar NL Series supports fully front installable and serviceable. Easier for installation and maintenance. The display system can be installed like wall mounting and ground stacking. 
                     </p>
@@ -128,7 +131,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>NL SERIES FEATURES</span>
+                <span>NL Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -173,7 +176,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>NL SERIES SHOWCASE</span>
+                <span>NL Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -192,7 +195,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -567,8 +570,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

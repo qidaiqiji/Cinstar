@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Concert LED screen | Cinstar, LED panel screen, best LED video screen</title>
+    <title>Concert LED Screen | Cinstar-led, LED Panel Screen | Best LED Video Screen</title>
     <meta name="description" content="Cinstar concert LED screen VX Series equipped with a fast locking system for rapid construction, a curving system allowing both convex and concave configurations, hanging and ground stacking installation. This LED panel screen will be the best LED video screen for you." />
     <meta name="keywords" content="Concert LED screen, LED panel screen, best LED video screen, LED video wall rental, outdoor rental LED videowall, outdoor LED screen hire, event production LED screen" />
 </head>
@@ -80,11 +80,11 @@
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
-            <div class="left-img" style="width:48%">
+            <div class="left-img">
                 <img src="../images/products/Rental-LED/VX-Case-Show.jpg" alt="VX-Case-Show"/>
             </div>
             <div class="right-desc text-long">
-                <h2 class="title">USER-FRIENDLY LED VIDEO DISPLAYS</h2>
+                <h2 class="title">User-Friendly LED Video Displays</h2>
                 <p>Aim to supply the most cost-effective rental LED video display solution for indoor and outdoor rental events applications, Cinstar VX series utilizes high standard components selection to achieve high grey scale and refresh rate thereby making sure the ultimate image quality on Cinstar rental LED video display.</p>
                 <p>VX series LED video display was designed with a maximum focus on practicability and reliability. The modular LED video panels are built around a robust and light weight die-casting aluminum frame, easy to operate and maintain. </p>  
                 <p>With inbuilt feet and edge protectors, physical damage during transportation and assembly can be largely avoided and greatly improve its stability.</p> 
@@ -95,7 +95,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>VX SERIES FEATURES</span>
+                <span>VX Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -140,7 +140,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>CR SERIES SHOWCASE</span>
+                <span>VX Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -159,7 +159,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -597,8 +597,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

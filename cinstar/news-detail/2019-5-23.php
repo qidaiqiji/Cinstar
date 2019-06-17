@@ -50,10 +50,11 @@
                 <p>
                 The giant top handle and auto fast locking system enable one-man installation. The whole panel is chamfered to leave no sharp edge for safe operation. The LED video display support suspension, ground stacking, concave and convex and dislocation installation for any creative stage design.
                 </p>
-                <p>
+                
                 <div class="img-box"> 
                     <img src="../images/products/Rental-LED/EC-9.jpg" alt="Rental-LED"/>
                 </div>
+                <p>
                 If you are interested to know more about this product, please feel free to contact us at sales@cinstar-led.com
                 </p>
             </div>

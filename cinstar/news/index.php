@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/news.css">
-    <title>Cinstar LED display | Company news, transparent LED display, screen</title>
+    <title>Cinstar LED Display | Company News, Transparent LED Display, Screen</title>
     <meta name="description" content="Cinstar Electronics is with the aim of offering cutting-edge LED display products and turn-key solutions for global customers. We are committed to be a trusted LED display manufacturer and integrated service provider." />
     <meta name="keywords" content="Cinstar LED display, Cinstar electronics, transparent LED display, creative LED screen, poster LED wall, Indoor LED display, outdoor LED display, commercial LED display, LED digital signage" />
 </head>

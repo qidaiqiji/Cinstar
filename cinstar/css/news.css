@@ -50,7 +50,7 @@
     justify-content: space-between;
 }
 .desc .news-title h2{
-    font-size: 0.16rem;
+    font-size: 0.14rem;
     height: 0.3rem;
 }
 .news-title a:hover{
@@ -62,14 +62,23 @@
     font-size: 0.12rem;
 }
 .desc .detail{
-    line-height: 0.14rem;
-    font-size: 0.11rem;
+    line-height: 0.17rem;
+    font-size: 0.12rem;
     margin-bottom: 0.1rem;
     color:#666;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.desc .more{
+    font-size: 0.12rem;
 }
 .desc .more a:hover{
     color:#bc261a;
 }
+
 @media (max-width: 1110px){
     .news-container {
         margin-top:1rem;

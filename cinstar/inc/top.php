@@ -2,14 +2,14 @@
     <div class="header">
         <div class="header-inner">
             <!-- <h1> -->
-                <a href="/" class="header-logo">
+                <a href="../home" class="header-logo">
                     <img src="../images/logo.png" alt="Cinstar"/>
                 </a>
             <!-- </h1> -->
             <div class="header-menu mobile-menu" id="header-menu">
                 <ul class="header-menu-ul">
                     <li class="menu-item" id="in0">
-                        <a href="/" class="menu-link">HOME</a>
+                        <a href="../home" class="menu-link">HOME</a>
                         <div class="subMenu">
                             <ul class="subMenu-ul"></ul>
                         </div>
@@ -47,33 +47,6 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="menu-item" id="in03">
-                        <a href="../markets" class="menu-link has-sub">MARKETS</a>
-                        <div class="subMenu">
-                            <ul class="subMenu-ul">
-                                <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../markets/">
-                                        <span>Rental Event</span>
-                                    </a>
-                                </li>
-                                <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../markets/fine-pitch.php">
-                                        <span>Fine Pitch</span>
-                                    </a>
-                                </li>
-                                <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../markets/creative.php">
-                                        <span>Creative</span>
-                                    </a>
-                                </li>
-                                <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../markets/commercial.php">
-                                        <span>Commercial</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
                     <li class="menu-item" id="in04">
                         <a href="../gallery" class="menu-link has-sub">GALLERY</a>
                         <div class="subMenu">
@@ -97,7 +70,7 @@
                         </div>
                     </li>
                     <li class="menu-item" id="in05">
-                        <a href="../support" class="menu-link">SUPPORT</a>
+                        <a href="../led-academy" class="menu-link">LED ACADEMY</a>
                         <div class="subMenu">
                             <ul class="subMenu-ul"></ul>
                         </div>

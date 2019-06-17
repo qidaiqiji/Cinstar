@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Transparent LED display, LED backdrop curtain, LED mesh display</title>
+    <title>Transparent LED Display | LED Curtain | LED Mesh Display | Cinstar-led</title>
     <meta name="description" content="Cinstar transparent LED display TR series offers ultra-high transparency screens for indoor rental and fixed installations. It can be used as LED backdrop curtain on stage event and also LED mesh display for window commercial advertising." />
     <meta name="keywords" content="transparent LED display, LED backdrop curtain, LED mesh display, GOB transparent LED display, advertising transparent LED wall, commercial transparent LED display screen" />
 </head>
@@ -78,11 +78,11 @@
         </div>
         <!-- 产品详情 -->
         <div class="product-desc">
-            <div class="left-img" style="width:51%">
+            <div class="left-img">
                 <img src="../images/products/Creative-LED/TR-Case-Show.jpg" alt="TR-SERIES"/>
             </div>
             <div class="right-desc text-long">
-                <h2 class="title">CREATIVE EFFECT SOLUTIONS</h2>
+                <h2 class="title">Creative Effect Solutions</h2>
                 <p>Cinstar TR Series LED video display offers ultra-high transparency screens for rental events and commercial advertising installations. The pixel pitch ranges from 3.9mm to 7.8mm.</p>
                 <p>Advanced GOB technology can be adopted on this LED screen display to improve stability of the system (less LED falling when incident collision) and make it possible for outdoor waterproof applications. In addition, a transparent acrylic plate can be installed in front of the panel to protect LEDs, if needed.</p>  
                 <p>The fast locking system and giant installation pins ensure quick and easy installation. Which makes it excellent to be used as rental stage main background or creative effect display. The ultra-high transparency enables it a perfect choice for window installations such as shopping center, restaurant, jewelry store and fashion shop etc.</p>  
@@ -92,7 +92,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>TR SERIES FEATURES</span>
+                <span>TR Series Features</span>
             </div>
             <div class="iconsList tr-icons">
                 <div class="iconItems">
@@ -125,7 +125,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>TR SERIES SHOWCASE</span>
+                <span>TR Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -144,7 +144,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -439,8 +439,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

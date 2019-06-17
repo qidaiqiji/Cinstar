@@ -7,7 +7,7 @@
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer" />  
     <meta name="p:domain_verify" content="55405faff2c022df8ded4e9440511b8f"/>
     <meta name="msvalidate.01" content="05393303A9AC7E2D8DCF3B48AD511318" />
-    <title>Cinstar - LED screen display, LED video display, LED display expert</title>
+    <title>Cinstar - LED Screen Display, LED Video Display, LED Display Expert</title>
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body class="page-index">
@@ -48,15 +48,15 @@
             </div>
             <div class="product-container">
                 <div class="product-item">
-                    <a class="thumb" href="../product-detail/ec-series.php">
+                    <a class="thumb" href="/product-detail/ec-series.php">
                         <img src="images/products/Rental-LED/EC-SERIS.jpg" alt="ec-series"/>
                     </a>
-                    <a class="list-title" href="../product-detail/ec-series.php">
-                        <h2 class="current">EC SERIES</h2><span class="more">View More</span>
+                    <a class="list-title" href="/product-detail/ec-series.php">
+                        <span class="current">EC SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
                 <div class="product-item">
-                    <a class="thumb" href="product-detail/cr-series.php">
+                    <a class="thumb" href="/product-detail/cr-series.php">
                         <img src="images/home/CR SERIES.jpg" alt="cr-series"/>
                     </a>
                     <a class="list-title" href="product-detail/cr-series.php">
@@ -79,14 +79,6 @@
                         <span class="current">HD SERIES</span><span class="more">View More</span>
                     </a>
                 </div>
-                <!-- <div class="product-item">
-                    <a class="thumb" href="product-detail/nl-series.php">
-                        <img src="images/home/NL Series.jpg" class="short" alt="nl-series"/>
-                    </a>
-                    <a class="list-title" href="product-detail/nl-series.php">
-                        <span class="current">NL SERIES</span><span class="more">View More</span>
-                    </a>
-                </div> -->
                 <div class="product-item">
                     <a class="thumb" href="product-detail/tr-series.php">
                         <img src="images/home/TR SERIES.jpg"  class="short" alt="tr-series"/>
@@ -132,13 +124,13 @@
                 <div class="img-container">
                     <ul class="imgList">
                         <li>
-                            <a href="markets">
+                            <a href="products/rental-led.php">
                                 <img src="images/home/rental-market.jpg" alt="rental-market"/>
                                 <div class="what-banner">
-                                    rental event
+                                    Rental LED Display
                                 </div>
                                 <div class="imgCover">
-                                    <div class="title">rental event</div>
+                                    <div class="title">Rental LED Display</div>
                                     <p class="content">
                                         LED screen display is now playing a critical role in entertainment industry. Wherever we go to concert, theater or night club, we can always see the wide application of LED video display showing excellent effect and superb visual impact. Along with huge market demand on LED screen display, each LED display manufacturer is facing more rigorous test since the customers are asking for more practical LED Screen display and sharper image rental LED display to deliver better visual experience.
                                         Cinstar, a LED display manufacturer with more than 8-year experience in LED video display industry, has a sophisticated understanding of LED screen display trend. After thorough investigations and researches on AV industry, Cinstar offers several rental LED display for different segments of AV industry. For instance, we have rental LED display CR series for live production and LM series LED screen display for wedding, events and touring etc. 
@@ -148,13 +140,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="markets/fine-pitch.php">
+                            <a href="products/fine-pitch.php">
                                 <img src="images/home/fine-pitch-market.jpg" alt="fine-pitch-market"/>
                                 <div class="what-banner">
-                                    FINE PITCH
+                                    Fine Pitch LED Display
                                 </div>
                                 <div class="imgCover">
-                                    <div class="title">FINE PITCH</div>
+                                    <div class="title">Fine Pitch LED Display</div>
                                     <p class="content">
                                         Thanks to breakthrough of LED screen display technology, more and more LED video display walked into TV studio and conference room where once dominated by LCD video walls. Fine pitch LED video display is different from rental LED display and stage LED screen, it requires lower tolerance on LED screen display uniformity and better image reproduction.
                                         When comes to LED screen display application, except being used at control rooms, it has also been installed as LED advertising screen at metro station and airports to deliver crystal clear advertisement content to passing-by. 
@@ -164,13 +156,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="markets/creative.php">
+                            <a href="products/creative-led.php">
                                 <img src="images/home/creative-market.jpg" alt="creative-market"/>
                                 <div class="what-banner">
-                                    CREATIVE
+                                    Creative LED Display
                                 </div>
                                 <div class="imgCover">
-                                    <div class="title">CREATIVE</div>
+                                    <div class="title">Creative LED Display</div>
                                     <p class="content">
                                     When the market is flooding with almost-same LED screen display, how to stand out from ordinaries and be unique is what most LED display manufacturers thinking about, especially when customers facing so many choices than ever. Driven by strong LED screen display market demand, Cinstar launched several creative LED video display to provide multiple choice and competitive LED screen display solution for customers.  For rental LED display market, we have transparent LED video display TR series for LED backdrop curtain. For commercial advertising market, we have TS series LED advertising screen to give better visual experience for the new era retails. Besides, Cinstar Xposter LED screen display and 3D hologram LED video display bring brand new purchasing experience for customers.
                                     Cinstar is with strong willing to be a value added LED screen display partner to our customers by supplying creative LED video display and helping create more business value for them. If you are looking for reliable LED display manufacturer for rental LED display, stage LED screen or LED advertising screen, Cinstar will be right choice for you.
@@ -179,13 +171,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="markets/commercial.php">
+                            <a href="products/commercial-led.php">
                                 <img src="images/home/commercial-market.jpg" alt="commercial-market"/>
                                 <div class="what-banner">
-                                    COMMERCIAL
+                                    Commercial LED Display
                                 </div>
                                 <div class="imgCover">
-                                    <div class="title">COMMERCIAL</div>
+                                    <div class="title">Commercial LED Display</div>
                                     <p class="content">
                                     With the arrival of digital era, DOOH is one of the key market segments of LED screen display for its high brightness, better image quality and intelligent advertisement management. The traditional printing outdoor billboard is gradually losing its advantage and the market share. Comparing with rental LED display and stage LED screen requires light weight and better user friendly operation, LED advertising screen cares more on the stability and durability since such LED advertising screen will be permanently installed at one location and may suffer severe weather conditions. 
                                     As a customer satisfaction oriented LED display manufacturer, Cinstar has comprehensive LED video display solutions to cater to customer's need on different kind of LED advertising screen. For example, Cinstar FT series LED video display can show high definition image quality and customized to any required shapes. Cinstar MC series LED advertising screen is perfect for huge building facades advertising. Besides, high end DB series LED advertising screen is with light weight, better uniformity and energy saving. EI series LED video display can be used as both rental LED display and LED advertising screen.
@@ -335,7 +327,7 @@
             <div class="case-list">
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/Campbell Park 4.8mm.jpg" alt="Campbell Park 4.8mm"/>
+                        <img src="/images/home/Campbell Park 4.8mm.jpg" alt="Campbell Park 4.8mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Campbell Park 4.8mm LED Video Display</span>
@@ -343,7 +335,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/ESPN Conference Room 1.56mm.jpg" alt="ESPN Conference Room 1.56mm"/>
+                        <img src="/images/home/ESPN Conference Room 1.56mm.jpg" alt="ESPN Conference Room 1.56mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">ESPN 1.56mm LED Screen Display</span>
@@ -351,7 +343,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/Mosco Airport 10mm.jpg" alt="Mosco Airport 10mm"/>
+                        <img src="/images/home/Mosco Airport 10mm.jpg" alt="Mosco Airport 10mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Mosco Airport 10mm LED Video Display</span>
@@ -359,7 +351,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/New Zealand Shopping Mall 6mm.jpg" alt="New Zealand Shopping Mall 6mm"/>
+                        <img src="/images/home/New Zealand Shopping Mall 6mm.jpg" alt="New Zealand Shopping Mall 6mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">New Zealand 6mm LED Screen Display</span>
@@ -367,7 +359,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/Strickly Star 3.9mm.jpg" alt="Strickly Star 3.9mm"/>
+                        <img src="/images/home/Strickly Star 3.9mm.jpg" alt="Strickly Star 3.9mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Strickly Star 3.9mm LED Video Display</span>
@@ -375,7 +367,7 @@
                 </div>
                 <div class="case-item">
                     <span class="case-thumb">
-                        <img src="images/home/Swizerland Conference room 1.2mm.jpg" alt="Swizerland Conference room 1.2mm"/>
+                        <img src="/images/home/Swizerland Conference room 1.2mm.jpg" alt="Swizerland Conference room 1.2mm"/>
                     </span>
                     <span class="case-title">
                         <span class="current">Swizerland 1.2mm LED Screen Display</span>
@@ -393,7 +385,7 @@
             <div class="news-list">
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2019-5-23.php">
-                        <img src="images/rental/23-rental-case.jpg" alt="Cinstar launched its most practical rental LED display"/>
+                        <img src="/images/rental/23-rental-case.jpg" alt="Cinstar launched its most practical rental LED display"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -407,7 +399,7 @@
                 </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2019-4-12.php">
-                        <img src="images/news/news-19-4-12.jpg" alt="Cinstar new website for better browsing experience"/>
+                        <img src="/images/news/news-19-4-12.jpg" alt="Cinstar new website for better browsing experience"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -421,7 +413,7 @@
                 </div>
                 <div class="news-item">
                     <a class="news-thumb" href="news-detail/2019-3-15.php">
-                        <img src="images/news/news1.jpg" alt="Cinstar display lights up Oslo Spektrum Arena"/>
+                        <img src="/images/news/news1.jpg" alt="Cinstar display lights up Oslo Spektrum Arena"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
@@ -433,21 +425,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2019-2-18.php">
-                        <img src="images/news/news2.jpg" alt="160sqm Cinstar LM3.9 for Indian conference room"/>
-                    </a>
-                    <div class="news-detail">
-                        <div class="news-title">
-                            <h3>160sqm Cinstar LM3.9 for Indian conference room</h3>
-                            <p class="date">2019-2-18</p>
-                        </div>
-                        <div class="news-desc">
-                            As a new trend to digital world, LED display is now playing a more and more important role in conference & meeting industry comparing to traditional projectors for its high brightness, vivid and natural color and seamless...
-                        </div>
-                    </div>
-                </div> -->
-                
+              
             </div>
         </div>
         <!-- new结束 -->

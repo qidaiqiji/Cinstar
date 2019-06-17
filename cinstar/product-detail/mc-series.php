@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>LED advertising display | LED video curtain, outdoor display board</title>
+    <title>LED Advertising Display | LED Video Curtain, Outdoor Display Board</title>
     <meta name="description" content="Cinstar LED advertising display MC series is specifically designed to cater to large format building facades installations. The great advantage of its light weight cabinet makes it a second-to-none solution for giant LED video curtain or huge outdoor digital board." />
     <meta name="keywords" content="LED advertising display, LED video curtainl, outdoor display board, curtain LED display, mesh LED screen wall, outdoor LED display board" />
 </head>
@@ -85,15 +85,16 @@
                     <img src="../images/products/Commercial-LED/MC SERIES1.jpg" alt="MC SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">SUPER LIGHT WEIGHT PANEL</h2>
+                    <h2 class="title">Super Light Weight Panel</h2>
                     <p>
                     Cinstar MC series LED video panel weighs 18 kgs per square meter which is 75% lighter vs traditional cabinet. The extremely lightweight panel allowing it to be attached to building surface with minimizing the whole weight loading. Truly the first and best choice for giant LED display billboard installation to shopping center facades.
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">HIGH LEVEL OF TRANSPARENCY</h2>
+                    <h2 class="title">High Level of Transparency</h2>
                     <p>
                     The Cinstar MC series LED video display is specifically designed to cater to large format outdoor fixed installations, which requires a certain level of transparency, allowing the natural light to flow through the screen. Featuring high bright LEDs, the MC series LED displays deliver superb visual effects and excellent contrast ratio in any light condition.
                     </p>
@@ -102,20 +103,22 @@
                     <img src="../images/products/Commercial-LED/MC SERIES2.jpg" alt="MC SERIES"/>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/MC SERIES3.jpg" alt="MC SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">FULLY PROTECTED PANEL</h2>
+                    <h2 class="title">Fully Protected Panel</h2>
                     <p>
                     Cinstar MC series LED video display is with IP67 protection, the whole panel is designed to withstand any harsh environment factors such as direct UV rays, strong wind, varying temperatures, constant vibrations and severe weather conditions. 
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">EXTREMELY SIMPLIFIED INSTALL</h2>
+                    <h2 class="title">Extremely Simplified Install</h2>
                     <p>
                     The ultra-light weight panel design enables steel structure weight approximate 80% less vs traditional install. Such extremely simplified install couldn't save more on labor and structure cost. The LED curtain system supports both front and rear access service for special projects.
                     </p>
@@ -128,7 +131,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>MC SERIES FEATURES</span>
+                <span>MC Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -173,7 +176,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>MC SERIES SHOWCASE</span>
+                <span>MC Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -192,7 +195,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -532,8 +535,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

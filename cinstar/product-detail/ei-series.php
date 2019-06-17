@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>LED board manufacturer | cheap LED display, LED video display screen</title>
+    <title>LED Board Manufacturer | Cheap LED Display, LED Video Display | Cinstar-led</title>
     <meta name="description" content="Cinstar EI series LED video display screen is specially designed to meet both install and rental applications. Its fast lock system and magnetic modules enable easier installation and maintenance. If you are looking for a LED board manufacturer for a cheap LED display, we may have what you need." />
     <meta name="keywords" content="LED board manufacturer, cheap LED display, LED video display screen, LED video screen price, LED screen for hire" />
 </head>
@@ -84,7 +84,7 @@
                 <img src="../images/products/Commercial-LED/EI-Case-Show.jpg" alt="EI-Case-Show"/>
             </div>
             <div class="right-desc">
-                <h2 class="title">RENTAL AND INSTALL LED DISPLAYS</h2>
+                <h2 class="title">Rental And Install LED Displays</h2>
                 <p>Cinstar EI series is specially designed to meet both install and rental applications. Its classic fast lock system and magnetic modules enable easier installation and maintenance.</p>
                 <p>Featuring high refresh rate, high grey scale level and wide color gamut, EI series system brings perfect visual performance to rental productions or commercial advertising.</p>  
                 <p>Cinstar EI series system supports any creative installations like hanging, ground stacking, wall mounting or curved to meet any eye-catching visual designs. 
@@ -94,7 +94,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>EI SERIES FEATURES</span>
+                <span>EI Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -139,7 +139,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>EI SERIES SHOWCASE</span>
+                <span>EI Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -158,7 +158,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -596,8 +596,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

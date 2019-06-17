@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>LED rental | Cinstar, rental LED display, LED screen rental, stage LED</title>
+    <title>LED Rental | Rental LED Display, LED Screen Rental, Stage LED | Cinstar-led</title>
     <meta name="description" content="Cinstar CR series offers advanced, high-performance rental LED display for stage rental applications. The lightweight and slim panel is great for LED screen rental. If you are looking for LED rental for touring & event production, CR series is the right choice." />
     <meta name="keywords" content="LED rental, rental LED display, LED screen rental, stage LED, stage rental LED screen, rental event LED wall, LED video wall rental" />
 </head>
@@ -84,7 +84,7 @@
                 <img src="../images/products/Rental-LED/CR-Case-Show.jpg" alt="CR-Case-Show"/>
             </div>
             <div class="right-desc text-long">
-                <h2 class="title">CREATIVE RENTAL SOLUTIONS</h2>
+                <h2 class="title">Creative Rental Solutions</h2>
                 <p>Cinstar CR series LED screen display offers optimal, great-performance rental LED panel board for both indoor and outdoor rental applications.</p>
                 <p>Designed especially for AV rental and entertainment industry, CR series LED video panels are extremely lightweight and slim but tough and durable. The LED system equipped with user-friendly features like ergonomic handles for convenient handling and operation, fast build-up and easy alignment.</p>  
                 <p>When it comes to massive LED video display, the giant robust top lock allows suspension more than 10m and enables one-man installation on site which greatly accelerates preparation work and lower operation cost.</p> 
@@ -95,7 +95,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>CR SERIES FEATURES</span>
+                <span>CR Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -140,7 +140,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>CR SERIES SHOWCASE</span>
+                <span>CR Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -159,7 +159,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -597,8 +597,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

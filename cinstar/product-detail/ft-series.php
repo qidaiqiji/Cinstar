@@ -4,7 +4,7 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/detail.css">
-    <title>Outdoor display board | outdoor LED sign boards, outdoor digital screen</title>
+    <title>Outdoor Display Board | Outdoor LED Sign Boards, Outdoor Digital Screen</title>
     <meta name="description" content="Cinstar FT series outdoor display board supports front or rear service access for specific installation. The high brightness and great stability of the outdoor digital screen enable it a preferred outdoor LED sign boards for your commercial outdoor advertising business." />
     <meta name="keywords" content="outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens" />
 </head>
@@ -85,7 +85,7 @@
                     <img src="../images/products/Commercial-LED/FT Series1.jpg" alt="FT SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">GREAT DURABILITY AND STABILITY</h2>
+                    <h2 class="title">Great Durability And Stability</h2>
                     <p class="mobile-hide">
                     Cinstar FT series LED video display was developed specifically for commercial billboards and outdoor digital advertising markets.
                     </p>
@@ -94,9 +94,10 @@
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail">
                 <div class="desc-part half">
-                    <h2 class="title">FRONT AND REAR MAINTENANCE FOR OPTIONS</h2>
+                    <h2 class="title">Front And Rear Maintenance For Options</h2>
                     <p>
                     Cinstar FT series LED video display supports front or rear service access for specific installation. The fully front installation and maintenance panel design easier your installation procedures and much convenient to maintain. It is the perfect choice for against the wall installation or any other environment where requires no rear maintenance space. 
                     </p>
@@ -105,20 +106,22 @@
                     <img src="../images/products/Commercial-LED/FT Series2.jpg" alt="FT SERIES"/>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="img-part half">
                     <img src="../images/products/Commercial-LED/FT Series3.jpg" alt="FT SERIES"/>
                 </div>
                 <div class="desc-part half">
-                    <h2 class="title">HIGH BRIGHTNESS WITH WIDE VIEWING ANGLE</h2>
+                    <h2 class="title">High Brightness With Wide Viewing Angle</h2>
                     <p>
                     Cinstar FT series LED video display equipped with high brightness LEDs (DIP or SMD for options) to make sure the screen displaying vivid and clear image even in direct sunlight. The wide viewing angle catches more eyes on the screen and deliver brilliant visual enjoyment to the passing-bys, greatly maximize the commercial value.
                     </p>
                 </div>
             </div>
+            <hr class="under-line"/>
             <div class="detail lower">
                 <div class="desc-part half">
-                    <h2 class="title">ADVANCED MONITORING AND REPORTING SYSTEM</h2>
+                    <h2 class="title">Advanced Monitoring And Reporting System</h2>
                     <p>
                     The advanced reporting system allows clients to remotely monitor the performance of the entire LED display and individual panels live from any destination. It detects any inconsistencies and failures and feedback the results in real time when they occur.
                     </p>
@@ -131,7 +134,7 @@
         <!-- SERIES FEATURES -->
         <div class="features">
             <div class="sub-title">
-                <span>FT SERIES FEATURES</span>
+                <span>FT Series Features</span>
             </div>
             <div class="iconsList">
                 <div class="iconItems">
@@ -176,7 +179,7 @@
         <!-- showCases -->
         <div class="show-cases">
             <div class="sub-title">
-                <span>FT SERIES SHOWCASE</span>
+                <span>FT Series Showcase</span>
             </div>
             <div class="img-wrap">
                 <div class="caseItem">
@@ -195,7 +198,7 @@
         </div>
         <div class="table-detail">
             <div class="sub-title">
-                <span>technical specification</span>
+                <span>Technical Specification</span>
             </div>
             <div class="table-wrap">
                 <table>
@@ -633,8 +636,8 @@
             </div>
         </div>
         <div class="related">
-            <div class="head-title">
-                <span>RELATED PRODUCTS</span>
+            <div class="sub-title">
+                <span>Related Products</span>
             </div>
             <div class="product-container">
                 <div class="product-item">

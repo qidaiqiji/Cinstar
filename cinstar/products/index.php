@@ -4,145 +4,88 @@
     <?php include('../inc/meta.php'); ?>
     <?php include('../inc/rem.php'); ?>
     <link rel="stylesheet" href="../css/product.css">
-    <title>LED video screen supplier I Cinstar, LED screen board, LED wall screen</title>
-    <meta name="description" content="Cinstar has comprehensive LED screen boards to cater to wide range of applications. No matter it is for high profile event production or competitive installation project, you can always find the right solution here." />
-    <meta name="keywords" content="LED video screen supplier, LED screen board, LED wall screen, LED digital screen, LED digital display, LED sign, LED wall display, LED display wall" />
+    <title>Rental LED Display | Commercial LED Display | LED Screen Display |  Cinstar-led</title>
+    <meta name="description" content="Cinstar has comprehensive LED video display products to cater to wide range of applications. It including rental LED display, commercial LED display and creative LED screen display. No matter it is for high profile event production or competitive installation project, you can always find the right solution here. " />
+    <meta name="keywords" content="rental LED display, commercial LED display, creative LED display, creative LED screen display, LED display, LED screen, LED screen board, LED wall screen, LED digital screen, LED digital display" />
 </head>
-<body class="page-index .menu-open">
+<body class="page-index">
     <!-- 头部开始 -->
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container">
-        <div class="productPage product">
-        <h1>Cinstar provides LED display, LED screen, LED screen board, LED display board, LED wall screen, LED video screen, LED display billboard, rental LED screen, commercial LED screen, rtransparent LED screen, Poster LED display for customers.</h1>
-            <div class="application pc-show">
-                <span class="text">Application:</span>
-                <a href="./" class="all" style="background:#bc261a;color:#fff">All</a>
-                <a href="./rental-led.php">Rental LED Display</a>
-                <a href="./fine-pitch.php">Fine Pitch LED Display</a>
-                <a href="./creative-led.php">Creative LED Display</a>
-                <a href="./commercial-led.php">Commercial LED Display</a>
+        <div class="product-banner">
+            <img src="../images/products/product-home/products-banner.jpg" alt="commercial"/>
+        </div>
+        <h1>Cinstar is a professional experienced rental LED display, commercial LED display, creative LED display, creative LED screen display, LED screen, LED screen board, LED wall screen, LED digital screen, LED digital display, LED rental screen display, LED screens for events, LED screen for wedding, LED screen for rental, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, transparent LED display, front service LED display, commercial advertising billboard, LED sign screen, LED board, LED billboard, LED display, LED wall manufacturer</h1>
+        <div class="sort-box">
+            <div class="head-title">
+                <h2>CINSTAR LED DISPLAY PRODUCTS</h2>
             </div>
-            <div class="application ipad-show">
-                <span class="text">Application:</span>
-                <a class="all" href="./" style="background:#bc261a;color:#fff">All</a>
-                <a href="./rental-led.php">Rental</a>
-                <a href="./fine-pitch.php">Fine Pitch</a>
-                <a href="./creative-led.php">Creative</a>
-                <a href="./commercial-led.php">Commercial</a>
-            </div>
-            <div class="product-container">
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ec-series.php">
-                        <img src="../images/products/Rental-LED/EC-SERIS.jpg" alt="ec-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ec-series.php">
-                        <h2 class="current">EC SERIES</h2><span class="more">View More</span>
-                    </a>
+            <div class="sort-list">
+                <div class="sort-item">
+                    <div class="sort-img">
+                        <a href="../products/rental-led.php"><img src="../images/products/product-home/products-rental.jpg"></a>
+                    </div>
+                    <div class="sort-detail">
+                        <div class="sub-title">
+                            <h3><a href="../products/rental-led.php">Rental LED Display</a></h3>
+                        </div>
+                        <p>Cinstar offers the most cost-effective rental LED display products and diversified display solutions to maximize your return on investment. Its excellent image performance and practical mechanical design assuring the superb visual enjoyment and ready to bring WOW effect to each of your rental events.</p>
+                        <div>
+                            <a class="read-more" href="../products/rental-led.php"><i class="fa fa-caret-right right"></i>Read More</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/cr-series.php">
-                        <img src="../images/home/CR SERIES.jpg" alt="cr-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/cr-series.php">
-                        <h2 class="current">CR SERIES</h2><span class="more">View More</span>
-                    </a>
+                <hr class="under-line"/>
+                <div class="sort-item">
+                    <div class="sort-img">
+                        <a href="../products/fine-pitch.php"> <img src="../images/products/product-home/products-fine-pitch.jpg"></a>
+                    </div>
+                    <div class="sort-detail">
+                        <div class="sub-title">
+                            <h3><a href="../products/fine-pitch.php">Fine Pitch LED Display</a></h3>
+                        </div>
+                        <p>
+                        Catering to your ultimate expectations on high performance direct-view LED video display, Cinstar fine pitch LED display is proven to be the most reliable and versatile video equipment to deliver ultra-high resolution and super sharp image quality for any high profile events and installations.
+                        </p>
+                        <div>
+                            <a class="read-more" href="../products/fine-pitch.php"><i class="fa fa-caret-right right"></i>Read More</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/lm-series.php">
-                        <img src="../images/home/LM SERIES.jpg" alt="lm-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/lm-series.php">
-                        <h2 class="current">LM SERIES</h2><span class="more">View More</span>
-                    </a>
+                <hr class="under-line"/>
+                <div class="sort-item">
+                    <div class="sort-img">
+                        <a href="../products/creative-led.php"><img src="../images/products/product-home/products-creative.jpg"></a>
+                    </div>
+                    <div class="sort-detail">
+                        <div class="sub-title">
+                            <h3><a href="../products/creative-led.php">Creative LED Display</a></h3>
+                        </div>
+                        <p>
+                        Aiming to create more opportunities and possibilities for customers to stay competitive on the market, our high value added transparent LED display and poster LED display could be adopted at special market segments to provide creative and immersive visual display performance.
+                        </p>
+                        <div>
+                            <a class="read-more" href="../products/creative-led.php"><i class="fa fa-caret-right right"></i>Read More</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/hd-series.php">
-                        <img src="../images/home/HD SERIES.jpg" class="short" alt="hd-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/hd-series.php">
-                        <h2 class="current">HD SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/nl-series.php">
-                        <img src="../images/home/NL Series.jpg" class="short" alt="nl-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/nl-series.php">
-                        <h2 class="current">NL SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/mc-series.php">
-                        <img src="../images/home/MC SERIES.jpg" alt="mc-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/mc-series.php">
-                        <h2 class="current">MC SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/tr-series.php">
-                        <img src="../images/home/TR SERIES.jpg" class="short" alt="tr-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/tr-series.php">
-                        <h2 class="current">TR SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/fantasy.php">
-                        <img src="../images/home/FANTASY.jpg" alt="fantasy"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/fantasy.php">
-                        <h2 class="current">FANTASY</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ts-series.php">
-                        <img src="../images/home/TS Series.jpg" class="ts-series" alt="ts-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ts-series.php">
-                        <h2 class="current">TS SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ft-series.php">
-                        <img src="../images/home/FT SERIES.jpg" class="short" alt="ft-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ft-series.php">
-                        <h2 class="current">FT SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/db-series.php">
-                        <img src="../images/home/DB Series.jpg" class="shorter" alt="db-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/db-series.php">
-                        <h2 class="current">DB SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/xposter.php">
-                        <img src="../images/home/Xposter.jpg" alt="xposter"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/xposter.php">
-                        <h2 class="current">Xposter</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/vx-series.php">
-                        <img src="../images/home/VX Series.jpg" class="shorter" alt="vx-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/vx-series.php">
-                        <h2 class="current">VX SERIES</h2><span class="more">View More</span>
-                    </a>
-                </div>
-                <div class="product-item">
-                    <a class="thumb" href="../product-detail/ei-series.php">
-                        <img src="../images/home/EI Series.jpg"  class="shorter" alt="ei-series"/>
-                    </a>
-                    <a class="list-title" href="../product-detail/ei-series.php">
-                        <h2 class="current">EI SERIES</h2><span class="more">View More</span>
-                    </a>
+                <hr class="under-line"/>
+                <div class="sort-item">
+                    <div class="sort-img">
+                        <a href="../products/commercial-led.php"><img src="../images/products/product-home/products-commercial.jpg"></a>
+                    </div>
+                    <div class="sort-detail">
+                        <div class="sub-title">
+                            <h3><a href="../products/commercial-led.php">Commercial LED display</a></h3>
+                        </div>
+                        <p>
+                        Cinstar has comprehensive commercial advertising billboard solutions for advertising agencies to fulfill any form of installations from high end to budget projects. The high stability, great durability and excellent usability of them assuring you the lowest cost during its lifetime operation. 
+                        </p>
+                        <div>
+                            <a class="read-more" href="../products/commercial-led.php"><i class="fa fa-caret-right right"></i>Read More</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
