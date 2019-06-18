@@ -14,9 +14,6 @@
     <!-- 头部结束 -->
     <div class="container">
         <!-- 导航开始 -->
-        <!-- <div class="product-banner">
-            <img src="../images/markets/fine pitch/market-fine-3.jpg" alt="market-fine"/>
-        </div> -->
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">3 Tips to Build Your High-Value Added Digital LED Billboard</h1>
@@ -31,7 +28,7 @@
                 Digitalized advertising is now becoming an irresistible trend in the high developed advertising industry, which keeps challenging and squeezing the market share of traditional print billboard advertising.
                 </p>
                 <p>
-                <a href="../producs/commercial-led.php" rel="nofollow">LED billboard display</a>, as the current most advanced and practical medial solution, brings more opportunities and possibilities for both advertising agencies and sponsors. Driven by the trend, more and more static billboards were transformed into digital LED billboard displays. But there is one thing you should figure out, whether you want to install a new LED billboard display or plan to upgrade your existing static billboard, that is how to make your LED billboard display high value added. Here are 3 trips we’d like to share with you.
+                <a href="../products/commercial-led.php" rel="nofollow">LED billboard display</a>, as the current most advanced and practical medial solution, brings more opportunities and possibilities for both advertising agencies and sponsors. Driven by the trend, more and more static billboards were transformed into digital LED billboard displays. But there is one thing you should figure out, whether you want to install a new LED billboard display or plan to upgrade your existing static billboard, that is how to make your LED billboard display high value added. Here are 3 trips we’d like to share with you.
                 </p>
                 <ul class="list">
                     <li>

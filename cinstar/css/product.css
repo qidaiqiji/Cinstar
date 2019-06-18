@@ -323,6 +323,9 @@ table .thead{
     .product-banner {
         height:auto;
     }
+    .content-container{
+        margin-bottom: 0.3rem;
+    }
 }
 @media (max-width:1200px){
     .blog-content{

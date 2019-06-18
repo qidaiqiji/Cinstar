@@ -37,7 +37,7 @@
                         <input type="text" name="tel" maxlength="50" placeholder="Telephone">
                     </p>
                     <textarea name="contents" maxlength="1000" placeholder="Message"></textarea>
-                    <button type="submit" class="submit">Submit</button>
+                    <button type="submit" class="submit foot-submit">Submit</button>
                 </form>
             </div>
         </div>

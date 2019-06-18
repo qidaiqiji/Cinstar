@@ -405,6 +405,9 @@ textarea{
     font-weight: bold;
     font-size: 0.12rem;
 }
+.foot-submit{
+    font-size: 0.1rem;
+}
 .submit:hover{
     background: #bc261a;
     color: #fff;
@@ -430,6 +433,7 @@ textarea{
     line-height: 40px;
     background: #010101;
     color:#a9a5a5;
+    font-size: 0.11rem;
 }
 .footer-detail .companyName{
     font-size: 14px;
