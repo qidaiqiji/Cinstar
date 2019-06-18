@@ -31,10 +31,10 @@
                 It is a fact that we will easily get bored and have aesthetic fatigue, if all the things around us are just same or similar. So does LED display! When the market is flooding with same products, a different one will definitely get more attention and create more opportunities.
                 </p>
                 <p>
-                Whatever it is rental event or commercial advertising, people always prefer the solution which can catch their attention immediately and <a href="../">bring supreme visual enjoyment</a>. That is why we can see some very special creative LED displays on music festival, concert, touring and also some landmark locations for commercial advertising.
+                Whatever it is rental event or commercial advertising, people always prefer the solution which can catch their attention immediately and <a href="../" rel="nofollow">bring supreme visual enjoyment</a>. That is why we can see some very special creative LED displays on music festival, concert, touring and also some landmark locations for commercial advertising.
                 </p>
                 <p>
-                The creative LED display is a kind of LED display which can be customized to any dimension and shape according to specific project. As to the shapes they can create, the <a href="../products/creative-led.php">creative LED display</a> is mainly divided into the following types:
+                The creative LED display is a kind of LED display which can be customized to any dimension and shape according to specific project. As to the shapes they can create, the <a href="../products/creative-led.php" rel="nofollow">creative LED display</a> is mainly divided into the following types:
                 </p>
                 <ul class="list">
                     <li>
@@ -49,7 +49,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>Spherical LED display</h2></div> 
                         <p>
-                        Spherical LED display is especially designed to meet creative installation in shopping center, science museum or Planetarium etc to provider an immersive fascinating visual experience. In addition, they can also be designed to polyhedron display or giant curved-surface ceiling LED display in theme park or aquarium to <a href="../products/commercial-led.php">deliver an impressive visual enjoyment</a>.
+                        Spherical LED display is especially designed to meet creative installation in shopping center, science museum or Planetarium etc to provider an immersive fascinating visual experience. In addition, they can also be designed to polyhedron display or giant curved-surface ceiling LED display in theme park or aquarium to <a href="../products/commercial-led.php" rel="nofollow">deliver an impressive visual enjoyment</a>.
                         </p>
                         <div class="img-box">
                             <img src="../images/blog/blog6-3.jpg"/>
@@ -58,7 +58,7 @@
                     <li>
                         <div class="sub-title"><i class="fa fa-paper-plane-o"></i><h2>LED strip display</h2></div>
                         <p>
-                        The min unit of such display is the LED strip. They can be combined to any shapes you want to decorate stage or night club to <a href="../products/commercial-led.php">create cool and eye-catching visual effect</a>. What is more, thousands of such LED strips could be installed on facades of building or skyscraper and configured to be a giant LED video display, similar to the famous Burji Dubai. 
+                        The min unit of such display is the LED strip. They can be combined to any shapes you want to decorate stage or night club to <a href="../products/commercial-led.php" rel="nofollow">create cool and eye-catching visual effect</a>. What is more, thousands of such LED strips could be installed on facades of building or skyscraper and configured to be a giant LED video display, similar to the famous Burji Dubai. 
                         </p>
                     </li>
                     <li>
@@ -84,7 +84,7 @@
                         Your clients are always happier to present a cooler and engaging atmosphere event for all the attendees. If your rental display can create much versatile and diversified designs, which will bring you more opportunities and better business.
                         </p>
                         <p>
-                        <a href="../products/rental-led.php">Cinstar rental LED displays</a> are capable of multiple creative installations, fast set up and dismantle, easier to maintain and transport. We assure you the excellent operation experience and the most cost-effective display solution.
+                        <a href="../products/rental-led.php" rel="nofollow">Cinstar rental LED displays</a> are capable of multiple creative installations, fast set up and dismantle, easier to maintain and transport. We assure you the excellent operation experience and the most cost-effective display solution.
                         </p>
                         <p>
                         <b>To advertising agencies,</b> the creative installation like big curve, right angle, cylinder or any other OEM design will definitely attract more attentions and more exposure of the advertisements. Which easier for you to attract more advertising campaigns from big influential brands and sponsors.
@@ -95,7 +95,7 @@
                         <p>
                         In addition, when you build LED billboard, you can integrate your display with rotating display system or dynamic structure to create some really impressive rotating or dynamic 3D wave effect. Such installation will make your billboard with much high value added and get more campaign contracts on it. 
                         </p>
-                        <p><a href="../products/commercial-led.php">Cinstar advertising billboard solution</a> supports any customized/OEM manufacturing for any of your project. The high performance and tested quality and stability make every penny of your investment count. 
+                        <p><a href="../products/commercial-led.php" rel="nofollow">Cinstar advertising billboard solution</a> supports any customized/OEM manufacturing for any of your project. The high performance and tested quality and stability make every penny of your investment count. 
                         </p>
                     </li>
                 </ul>

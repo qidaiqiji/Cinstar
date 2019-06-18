@@ -25,7 +25,7 @@
                     <span>May 14, 2019</span>
                 </div>
                 <p>
-                As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to <a href="../">deliver excellent visual impact</a>.
+                As the current most preferable media display solution, LED billboard has been widely adopted by all walks of life and is performing a critical role to <a href="../" rel="nofollow">deliver excellent visual impact</a>.
                 </p>
                 <p>
                 Taking outdoor advertising for example, LED billboard is beating traditional print advertising no matter what the brightness, image quality, durability and usability. It is like a rock star in the advertising industry.
@@ -34,7 +34,7 @@
                     <img src="../images/blog/blog5-1.jpg"/>
                 </div>
                 <p>
-                LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="../products/commercial-led.php">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
+                LED billboard brings you much opportunities and helps to boost your business. But do you have any idea how to perform the normative routine maintenance to extend the lifespan of your LED billboard and in return to <a href="../products/commercial-led.php" rel="nofollow">maximize its commercial value</a>? Here are 5 tips we would like to share with you.
                 </p>
                 <ul class="list">
                     <li>
@@ -64,7 +64,7 @@
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            When turning off LED billboard, first to shut down the power of display, then the controlling software and last the controlling computer. If turning off computer when LED billboard is still running, which may cause very high brightness spot on <a href="../products">LED display</a> and burn the LEDs.
+                            When turning off LED billboard, first to shut down the power of display, then the controlling software and last the controlling computer. If turning off computer when LED billboard is still running, which may cause very high brightness spot on <a href="../products" rel="nofollow">LED display</a> and burn the LEDs.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -93,7 +93,7 @@
                             Maintaining the stable power supply and making sure reliable grounding system. Do not use LED billboard at extreme weather conditions like strong thunderstorm and lightning. 
                         </p><p>
                             <i class="fa fa-angle-double-right"></i>
-                            When powering for a <a href="../products/commercial-led.php">giant LED billboard</a>, avoid powering the whole screen at the same time. The instantaneous power may cause severe impact to your powering system.
+                            When powering for a <a href="../products/commercial-led.php" rel="nofollow">giant LED billboard</a>, avoid powering the whole screen at the same time. The instantaneous power may cause severe impact to your powering system.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
@@ -107,7 +107,7 @@
                         </div>
                         <p>
                             <i class="fa fa-angle-double-right"></i>
-                            Scheduled cleaning work. Exposed to the open air, the dusts, particles and rains will leave dirt and traces on the surface of LED billboard, which affects the image quality on the display. So, a routine cleaning work should be performed, whatever <a href="../products">indoor or outdoor LED display</a>.
+                            Scheduled cleaning work. Exposed to the open air, the dusts, particles and rains will leave dirt and traces on the surface of LED billboard, which affects the image quality on the display. So, a routine cleaning work should be performed, whatever <a href="../products" rel="nofollow">indoor or outdoor LED display</a>.
                         </p>
                         <p>
                             <i class="fa fa-angle-double-right"></i>

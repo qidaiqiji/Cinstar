@@ -29,7 +29,7 @@
     overflow: hidden;
     box-shadow: 0 0 16px 10px rgba(105,105,105,.1);
     margin-bottom: 60px;
-    max-height: 500px;
+    /* max-height: 500px; */
     transition: 0.5s;
     position: relative;
 }
@@ -103,6 +103,9 @@
         line-height: 40px;
         -webkit-line-clamp:6
     }
+    .blog-item{
+        height: auto;
+    }
     
 }
 @media (max-width:1200px){
@@ -115,6 +118,7 @@
     }
     .blog-item{
         width: 32%;
+        max-height: 500px;
     }
     .brief-desc{
         font-size: 18px;

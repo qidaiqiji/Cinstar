@@ -329,7 +329,7 @@
                     <img src="../images/products/Creative-LED/creative-2.jpg"/>
                 </div>
                 <p>
-                Creative LED displays are specially used for specific market segments which require the LED display has to meet specific installation or achieve some special functions. The market of creative LED display is smaller than normal LED display, but it requires <a href="../">high matching LED display product</a>. Then it brings less competition on the other hand and easier for you to be different. Here are advantages of Cinstar creative LED display.
+                Creative LED displays are specially used for specific market segments which require the LED display has to meet specific installation or achieve some special functions. The market of creative LED display is smaller than normal LED display, but it requires <a href="../" >high matching LED display product</a>. Then it brings less competition on the other hand and easier for you to be different. Here are advantages of Cinstar creative LED display.
                 </p>
                 <ul class="list">
                     <li>
