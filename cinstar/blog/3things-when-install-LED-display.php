@@ -14,9 +14,6 @@
     <!-- 头部结束 -->
     <div class="container">
         <!-- 导航开始 -->
-        <!-- <div class="product-banner">
-            <img src="../images/markets/fine pitch/market-fine-3.jpg" alt="market-fine"/>
-        </div> -->
         <div class="content-container blog-content">
             <div class="content">
                 <h1 class="title">3 Critical Things to be Considered When Installing Outdoor LED Display</h1>

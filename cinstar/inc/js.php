@@ -16,8 +16,6 @@
             $(".page-index").toggleClass('menu-open')
         })
         $('.has-sub').on('click', function(e){
-            // e.preventDefault();
-            // console.log($(this))
         if($(window).width() < 1025) {
             e.preventDefault();
             var menuItem = $(this).parents('.menu-item');
@@ -25,10 +23,6 @@
             var subMenuLength = menuItem.find('.subMenu-ul li').length;
             var url = $(this).attr('href');
             if (menuItem.hasClass('active')) {
-                // menuItem.removeClass('active');
-                // subMenu.css({
-                //     height: 0
-                // });
                 location.href = url;
             } else {
                 menuItem.addClass('active');
@@ -102,7 +96,7 @@
     const messageWidth = $(".content-container").innerWidth();
     const footerTop = $(".footer").offset().top;
     $(window).scroll(function(){
-        if($(window).scrollTop()>messageTop && $(window).scrollTop()<footerTop-100) {
+        if($(window).scrollTop()>messageTop) {
             $(".message-box").addClass("fix");
             $(".message-box").css({
                 'left':messageLeft,
