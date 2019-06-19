@@ -28,7 +28,7 @@
                 Digitalized advertising is now becoming an irresistible trend in the high developed advertising industry, which keeps challenging and squeezing the market share of traditional print billboard advertising.
                 </p>
                 <p>
-                <a href="../products/commercial-led.php" rel="nofollow">LED billboard display</a>, as the current most advanced and practical medial solution, brings more opportunities and possibilities for both advertising agencies and sponsors. Driven by the trend, more and more static billboards were transformed into digital LED billboard displays. But there is one thing you should figure out, whether you want to install a new LED billboard display or plan to upgrade your existing static billboard, that is how to make your LED billboard display high value added. Here are 3 trips we’d like to share with you.
+                <a href="../products/commercial-led.php">LED billboard display</a>, as the current most advanced and practical medial solution, brings more opportunities and possibilities for both advertising agencies and sponsors. Driven by the trend, more and more static billboards were transformed into digital LED billboard displays. But there is one thing you should figure out, whether you want to install a new LED billboard display or plan to upgrade your existing static billboard, that is how to make your LED billboard display high value added. Here are 3 trips we’d like to share with you.
                 </p>
                 <ul class="list">
                     <li>
@@ -58,10 +58,10 @@
                       Different from print billboard (which is installed once for all), digital LED billboard display requires high standard and constant management on its display content. As to most consumers and laymen, the image on the LED billboard is their only standard to judge the quality of the display. So are the sponsors. But what kind of content works better for that?
                       </p>
                       <p>
-                      For example, if possible, choose black or dark background for the advertisement, which brings higher contrast ratio image on the display and also lower power consumption. Meanwhile, the content on the <a href="../" rel="nofollow">billboard display</a> should be creative, diversified and possible interactive with internet or mobile devices etc. What is more, the image or video on the LED billboard display should be well selected and with high grade. The poor quality content will make your display looks low grade and degrade your business image as advertising agency.
+                      For example, if possible, choose black or dark background for the advertisement, which brings higher contrast ratio image on the display and also lower power consumption. Meanwhile, the content on the <a href="../">billboard display</a> should be creative, diversified and possible interactive with internet or mobile devices etc. What is more, the image or video on the LED billboard display should be well selected and with high grade. The poor quality content will make your display looks low grade and degrade your business image as advertising agency.
                       </p>
                       <p>
-                      <a href="../" rel="nofollow">Cinstar</a> outdoor digital LED billboard displays are with high performance and high stability, which tested qualified by hundreds of projects around the world. Our OOH solution could meet any kind of your installations and help to maximize your return on the investment.
+                      <a href="../">Cinstar</a> outdoor digital LED billboard displays are with high performance and high stability, which tested qualified by hundreds of projects around the world. Our OOH solution could meet any kind of your installations and help to maximize your return on the investment.
                       </p>
                     </li>
                 </ul>

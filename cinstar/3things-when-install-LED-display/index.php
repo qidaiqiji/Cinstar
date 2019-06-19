@@ -28,7 +28,7 @@
                 Featuring high brightness, seamless connection, excellent image quality and great stability, outdoor LED display is beating the traditional print advertising in all aspects and is now becoming the new preference in the advertising industry. 
                 </p>
                 <p>
-                On one hand, the outdoor LED display, as the <a href="../" rel="nofollow">current most efficient media solution</a>, is capable of providing all kinds of flexible and diversified forms of advertisement and maximizing the value of your investment. On the other hand, it brings vivid color and light to our life and helps to enhance our city image. However, safe operation is the premise of all. When installing an outdoor LED display, here are what should be taken into considerations.
+                On one hand, the outdoor LED display, as the <a href="../">current most efficient media solution</a>, is capable of providing all kinds of flexible and diversified forms of advertisement and maximizing the value of your investment. On the other hand, it brings vivid color and light to our life and helps to enhance our city image. However, safe operation is the premise of all. When installing an outdoor LED display, here are what should be taken into considerations.
                 </p>
                 <div class="sub-title"><h2>Lightning protection</h2></div>
                 <div class="img-box">
@@ -45,7 +45,7 @@
                     <img src="../images/blog/blog1-3.jpg"/>
                 </div>
                 <p>
-                <a href="../products/commercial-led.php" rel="nofollow">Outdoor LED display</a> requires higher standard on the stability and durability. When referring to stability, waterproof is what can’t be underestimated or neglected. Electronic components are sensitive to water and moisture and can easily get wet, rusted and cause short circuit, if the waterproof is not performed well as requested. When you get LED display from factory, all the cabinets should be qualified for waterproofing. But when you install the display, some necessary work should be done to make sure of that. 
+                <a href="../products/commercial-led.php">Outdoor LED display</a> requires higher standard on the stability and durability. When referring to stability, waterproof is what can’t be underestimated or neglected. Electronic components are sensitive to water and moisture and can easily get wet, rusted and cause short circuit, if the waterproof is not performed well as requested. When you get LED display from factory, all the cabinets should be qualified for waterproofing. But when you install the display, some necessary work should be done to make sure of that. 
                 </p>
                 <p>
                 For example, the holes (top and bottom, left and right) for cabling on the cabinets have to be blocked to be waterproofing when you decorate the display. The steel structure for the LED display has to be equipped with necessary drainage system.
@@ -55,13 +55,13 @@
                     <img src="../images/blog/blog1-4.jpg"/>
                 </div>
                 <p>
-                Heat dissipation is always a critical issue to LED display, especially the <a href="../products/commercial-led.php" rel="nofollow">outdoor installation LED display</a>. We all know that the running LED display will generate heat inside the cabinet. With help of inserted electric fans, they create an air circulation and cooler its inside temperature. Seems no problem at all. 
+                Heat dissipation is always a critical issue to LED display, especially the <a href="../products/commercial-led.php">outdoor installation LED display</a>. We all know that the running LED display will generate heat inside the cabinet. With help of inserted electric fans, they create an air circulation and cooler its inside temperature. Seems no problem at all. 
                 </p>
                 <p>
                 But consider the circumstances, if a giant LED display is installed to the wall (screen body very close to the wall) without any cooling or ventilation system and running in direct sunlight. Then what might happen? At first, the modules will absorb the heat from sunlight and increase the temperature inside cabinet. It seems not big deal, the electric fans will take away the heat inside. What if the space (between screen body and wall) full of heat from cabinet? Since no cooling or external ventilation system to bring fresh air to increase air flow, the space will accumulate more and more heat and the electric fans will lose its function to cooler the temperature inside cabinet. Then the power supply and receiver card might shut down automatically for over-heating protection. If worse, the LED display cabinet may catch fire. 
                 </p>
                 <p>
-                Therefore, if an outdoor <a href="../" rel="nofollow">LED display</a> is installed in tropical area or where with high temperature, cooling or ventilation system might be necessary after considering the display dimension, heat dissipation space and natural air flow conditions etc.
+                Therefore, if an outdoor <a href="../">LED display</a> is installed in tropical area or where with high temperature, cooling or ventilation system might be necessary after considering the display dimension, heat dissipation space and natural air flow conditions etc.
                 </p>
             </div>
             <?php include('../inc/messageBox.php'); ?>

@@ -117,7 +117,7 @@
         <!-- what we do开始 -->
         <div class="what-we-do">
             <div class="head-title">
-                <h2><a href="markets">WHAT WE DO</a></h2>
+                <h2><a href="products">WHAT WE DO</a></h2>
             </div>
             <div class="what-container">
                 <a class="left"><i class="iconfont">&#xe604;</i></a>
