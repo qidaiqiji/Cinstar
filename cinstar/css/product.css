@@ -268,7 +268,8 @@ table .thead{
 
 /* -----------留言板------------ */
 .message-box{
-    width: 30%;
+    /* width: 30%; */
+    width: 500px;
     height: 100%;
     background: #54595f;
     margin-top:40px;
@@ -314,12 +315,20 @@ table .thead{
 .fix{
     position: fixed;
     /* right: 6%; */
-    top: 8%;
-    max-width: 367px;
+    top: 20%;
     height: auto;
 }
 /* 响应式 */
-@media (min-width:1400px){
+@media(max-width:1500px) {
+    .fix{
+        max-width: 367px;
+        top: 8%;
+    }
+    .message-box{
+        width: 367px;
+    }
+}
+@media (min-width:1401px){
     .product-banner {
         height:auto;
     }
