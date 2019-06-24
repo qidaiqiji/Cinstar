@@ -94,13 +94,12 @@
     const messageLeft = $(".message-box").offset().left;
     const messageTop = $(".message-box").offset().top;
     const messageWidth = $(".content-container").innerWidth();
-    const footerTop = $(".footer").offset().top;
     $(window).scroll(function(){
-        if($(window).scrollTop()>messageTop) {
+        if($(window).scrollTop()>messageTop+100) {
             $(".message-box").addClass("fix");
             $(".message-box").css({
                 'left':messageLeft,
-                'width':messageWidth*0.3,
+                // 'width':messageWidth*0.3,
             })
         }else{
             $(".message-box").removeClass("fix")

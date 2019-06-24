@@ -30,6 +30,11 @@
                                     </a>
                                 </li>
                                 <li class="subMenu-item">
+                                    <a class="subMenu-link" href="../products/commercial-led.php">
+                                        <span>Commercial LED Display</span>
+                                    </a>
+                                </li>
+                                <li class="subMenu-item">
                                     <a class="subMenu-link" href="../products/fine-pitch.php">
                                         <span>Fine Pitch LED Display</span>
                                     </a>
@@ -37,11 +42,6 @@
                                 <li class="subMenu-item">
                                     <a class="subMenu-link" href="../products/creative-led.php">
                                         <span>Creative LED Display</span>
-                                    </a>
-                                </li>
-                                <li class="subMenu-item">
-                                    <a class="subMenu-link" href="../products/commercial-led.php">
-                                        <span>Commercial LED Display</span>
                                     </a>
                                 </li>
                             </ul>

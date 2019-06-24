@@ -7,9 +7,9 @@
             </div>
             <div class="footer-detail">
                 <p><a href="../products/rental-led.php">Rental LED Display</a></p>
+                <p><a href="../products/commercial-led.php">Commercial LED Display</a></p>
                 <p><a href="../products/fine-pitch.php">Fine Pitch LED Display</a></p>
                 <p><a href="../products/creative-led.php">Creative LED Display</a></p>
-                <p><a href="../products/commercial-led.php">Commercial LED Display</a></p>
             </div>
         </div>
         <div class="footer-item footer-gallery">
