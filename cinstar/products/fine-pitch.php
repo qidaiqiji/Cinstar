@@ -18,7 +18,7 @@
             <img src="../images/products/Fine-Pitch/banner.jpg" alt="market-fine"/>
             <div class="img-cover">Fine Pitch LED Display</div>
         </div>
-        <h1>Cinstar is a professional experienced Fine pitch LED display, LED video display, LED video wall, Cinstar-led, 4K LED display, narrow pixel pitch LED display, Fine pitch LED wall, large format LED screen, direct view LED display, high resolution LED display, LED screen, LED video screen, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, rental LED display, commercial LED display, creative LED display, transparent LED display, front service LED display, commercial advertising billboard, LED sign screen, LED board, LED billboard, LED display, LED wall manufacturer</h1>
+      
          <!-- 产品参数开始 -->
          <div class="specification">
             <div class="product-img img-bigger">

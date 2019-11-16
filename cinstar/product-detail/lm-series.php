@@ -19,7 +19,7 @@
             </div>
             <div class="top-title">Rental Production LED Video Display</div>
         </div>
-        <h1>Cinstar is a professional experienced digital display screens, rental LED display, indoor rental LED display, p3.9 LED display, Indoor stage rental, rental LED panel, rental LED tiles, rental LED module, Rental events LED display board, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+ 
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

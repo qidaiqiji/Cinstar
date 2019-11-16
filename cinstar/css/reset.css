@@ -4,7 +4,7 @@
     font-family:'eurostile';
     src: url(./font/eurostile.ttf);
 }
-html,body{ height: 100%; }
+html,body{ height: 100%; user-select: none;}
 body{ 
     font-size: 18px;
     font-family:'eurostile'}

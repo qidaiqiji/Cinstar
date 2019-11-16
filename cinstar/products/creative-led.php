@@ -18,7 +18,7 @@
             <img src="../images/products/Creative-LED/banner.jpg" alt="market-fine"/>
             <div class="img-cover">Creative LED Display</div>
         </div>
-        <h1>Cinstar is a professional experienced creative LED display, transparent LED display, poster LED display, Cinstar-led, LED digital sinage, flexible LED screen wall, transparent LED wall, programmable LED display, LED screen, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display, front service LED display, commercial advertising billboard, LED sign screen, LED board, LED billboard, LED display, LED wall manufacturer</h1>
+       
          <!-- 产品参数开始 -->
          <div class="specification">
             <div class="product-img img-bigger">
@@ -329,7 +329,7 @@
                     <img src="../images/products/Creative-LED/creative-2.jpg"/>
                 </div>
                 <p>
-                Creative LED displays are specially used for specific market segments which require the LED display has to meet specific installation or achieve some special functions. The market of creative LED display is smaller than normal LED display, but it requires <a href="../" >high matching LED display product</a>. Then it brings less competition on the other hand and easier for you to be different. Here are advantages of Cinstar creative LED display.
+                Creative LED displays are specially used for specific market segments which require the LED display has to meet specific installation or achieve some special functions. The market of creative LED display is smaller than normal LED display, but it requires <a href="../">high matching LED display product</a>. Then it brings less competition on the other hand and easier for you to be different. Here are advantages of Cinstar creative LED display.
                 </p>
                 <ul class="list">
                     <li>

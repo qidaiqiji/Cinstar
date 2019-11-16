@@ -61,6 +61,7 @@
         </div>
     </div>
     <div class="related-news">
+    <h3><span>Previous :</span><a href="2019-6-26.php">Cinstar 40.5sqm fine pitch HD1.56 LED video display to France</a></h3>
         <h3><span>Next :</span><a href="2019-4-12.php">Cinstar new website for better browsing experience</a></h3>
     </div>
         <!-- 底部开始 -->

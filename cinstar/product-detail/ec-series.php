@@ -26,7 +26,7 @@
                 EC Series
                 </h2>
             </div>
-            <h1>Cinstar is a professional experienced LED video screen, LED display rental, LED screen, LED display panel, LED video display, cinstar, cinstar-led, LED display, LED video wall, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, rental LED screen, commercial LED display, creative LED display manufacturer.</h1>
+
             <div class="icons">
                 <div class="icon-box">
                     <div class="icon-item"><i class="iconfont">&#xe672;</i></div>
@@ -157,6 +157,33 @@
                     <p>
                     Cinstar EC series LED video screen is so versatile that it could be used as flat LED display, right angle, concave or convex installation. What's more, it supports dislocation installation to achieve special shape and creative effect.
                     </p>
+                </div>
+            </div>
+        </div>
+        <!-- 视频 -->
+        <div class="videoContainer">
+            <div class="sub-title">
+                <span>INSTALLATION VIDEOS</span>
+            </div>
+            <div class="videoBox">
+                <div class="videoItem">
+                    <div class="videoDesc">Front Maintenance Video</div>
+                    <video controls class="video" 
+                    src="../images/Cinstar EC Front Service.mp4"
+                    poster="../images/Front maintenance.jpg"
+                    ></video>
+                </div>
+                <div class="videoItem">
+                    <div class="videoDesc">Rear Maintenance Video</div>
+                    <video controls class="video" 
+                    poster="../images/Rear maintenance.jpg"
+                    src="../images/Cinstar EC Rear Service.mp4"></video>
+                </div>
+                <div class="videoItem">
+                    <div class="videoDesc">One-man Installation Video</div>
+                    <video controls class="video" 
+                    poster="../images/One-man installation.jpg"
+                    src="../images/Cinstar EC Installation.mp4"></video>
                 </div>
             </div>
         </div>

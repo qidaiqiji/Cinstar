@@ -19,7 +19,7 @@
             </div>
             <div class="top-title">High Profile Media LED Video Display</div>
         </div>
-        <h1>Cinstar is a professional experienced outdoor LED display board, digital billboard advertising, large screen display, outdoor LED wall screens, electric LED signs, advertising display board, outdoor LED advertising screens, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+        
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

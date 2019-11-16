@@ -19,8 +19,7 @@
             </div>
             <div class="top-title">High-Definition LED Video Display</div>
         </div>
-        <h1>Cinstar is a professional experienced hd LED display, LED video wall display, 4K LED screen wall, UHD LED video screen, large-format LED signage, mobile LED TV, 1.56mm LED display, 1.2mm LED screen panel, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
-        <!-- 产品参数 -->
+       
         <div class="specification">
             <div class="spec-detail">
                 <table>

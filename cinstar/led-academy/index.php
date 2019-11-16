@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <?php include('../inc/meta.php'); ?>
@@ -18,10 +18,111 @@
                 <span>LED ACADEMY</span>
             </div>
         </div>
-        
         <div class="blog-container">
-        <h1 style="color:#f5f5f5">Cinstar is a professional experienced LED screen display, LED forum, LED technology, Cinstar-led, LED display screen, LED screen, LED video wall, LED billboard display, rental LED display, commercial LED display, advertising LED display, LED rental screen display,  LED screen, LED video screen, LED video display, LED screen display, LED screen wall, LED display wall, LED wall display, LED wall video, creative LED display, transparent LED display, front service LED display, commercial advertising billboard, LED sign screen, LED board, LED billboard, LED display, LED wall manufacturer</h1>
             <div class="blog-list">
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="../applications-and-advantages-of-outdoor-led-display"><img src="../images/blog/Blog12-1.jpg" /></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="../applications-and-advantages-of-outdoor-led-display">The Key Applications and Advantages of Outdoor LED Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        With the development of digital technology and market preference, the types of outdoor advertising have shown a diversified trend. When we look around the city, in addition to the very traditional print advertisements at bus shelter and metro station, we can also see the digital signage LCD display and big LED display screen advertisements. LED display is now becoming the current most efficient and preferred channel for commercial advertising. This article will discuss the main applications and advantages of outdoor LED display.
+                        </p>
+                        <p class="read-more"><a href="../applications-and-advantages-of-outdoor-led-display">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 15, 2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="../things-before-and-after-purchasing-led-display"><img src="../images/blog/Blog11-1.jpg" /></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="../things-before-and-after-purchasing-led-display">What to be Considered Before and After Purchasing Outdoor LED Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        In recent years, with the rapid development of LED technology, LED display has been widely recognized as the most preferred media channel by various industries. When comes to the installation environment, which can be divided into indoor and outdoor categories. Due to the particularity of different applications, how to choose the right LED product and perform normative installation and maintenance have become some kind of knowledge that LED display owners are supposed to master. 
+                        </p>
+                        <p class="read-more"><a href="../things-before-and-after-purchasing-led-display">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 9, 2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="../advantages-of-fine-pitch-led-display"><img src="../images/blog/Blog10-1.jpg" /></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="../advantages-of-fine-pitch-led-display">Advantages of Fine Pitch LED Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED display got a big increase on the market share and has been widely used for high profile and high end applications for its ultra-high resolution and stunning image performance. Although much higher cost than other kind of video equipment like projector and LCD video wall, it is still favored by the market. This article will share with you what are the advantages of the fine pitch LED display.
+                        </p>
+                        <p class="read-more"><a href="../advantages-of-fine-pitch-led-display">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>July 2, 2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="../how-to-make-led-display-moisture-proof"><img src="../images/blog/Blog9-1.jpg" /></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="../how-to-make-led-display-moisture-proof">How to Make Your LED Display Moisture-Proof in Summer?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        The rainy and humid weather in summer brings no good to LED display. The pervasive vapor will increase the humidity in the air and affect the normal operation of LED display. Long-term high humidity environment may cause damage to electronic components and lead to problems like dead lamp, dark light, short circuit and open circuit, resulting in performance failure and impairing function and life of LED display. Then how to make your LED display moisture-proof is an issue that needs to be solved to both indoor and outdoor LED display. Here are some tips we gonna share with you.
+                        </p>
+                        <p class="read-more"><a href="../how-to-make-led-display-moisture-proof">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>June 26, 2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="../how-to-improve-clarity-of-led-display"><img src="../images/blog/Blog8-1.jpg" /></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="../how-to-improve-clarity-of-led-display">How to Improve Clarity of LED Display?</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        As the main carrier of commercial advertising and information broadcasting, LED display keeps close pace with the current market trend for high definition image production and better visual experience. High-definition video can often make the image on the display more detailed and realistic and thus bring a more dramatic visual impact. There are two factors should be taken into consideration to achieve high-definition displaying. One is that the video source has to be full HD format, and the other is that the LED display has to be full HD resolution.
+                        </p>
+                        <p class="read-more"><a href="../how-to-improve-clarity-of-led-display">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>June 21, 2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-item">
+                    <div class="img-box">
+                        <a href="../how-to-eliminate-moire-effect-on-led-display"><img src="../images/blog/Blog7-1.jpg" /></a>
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-title">
+                            <h2><a href="../how-to-eliminate-moire-effect-on-led-display">How to Eliminate Moiré Effect on LED Display</a></h2>
+                        </div>
+                        <p class="brief-desc">
+                        When shooting image on the working LED display, some odd stripes and irregular ripples appearing on the LED display screen. These ripples are called moiré pattern or moiré effect. Moiré effect is a visual perception that occurs when viewing a set of lines or dots that is superimposed on another set of lines or dots, where the sets differ in relative size, angle, or spacing.
+ The main effect of the moiré effect lies in TV camera. If the LED display has unbalanced illumination between pixels, the image quality on the LED display will be affected and cause glare when viewing the display at a close distance. Which sets a big challenge to TV studio production and other live production on video equipment.
+                        </p>
+                        <p class="read-more"><a href="../how-to-eliminate-moire-effect-on-led-display">READ MORE<i class="fa fa-angle-double-right"></i></a></p>
+                        <div class="blog-date">
+                            <p>June 18, 2019</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="blog-item">
                     <div class="img-box">
                         <a href="../why-need-creative-LED-display"><img src="../images/blog/blog6-1.jpg" /></a>

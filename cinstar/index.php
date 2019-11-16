@@ -1,23 +1,56 @@
+﻿<?php 
+    // Adding check to redirect all pages other than homepage that are being opened using homepage index.php file (use less pages)
+    $explodedURL = explode('/',$_SERVER['REQUEST_URI']);
+
+    if(count($explodedURL) > 2)
+    {
+        header("HTTP/1.1 301 Moved Permanently"); 
+        header("Location: https://www.cinstar-led.com/404.html"); 
+        exit();            
+    }
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <?php include('inc/meta.php'); ?>
     <?php include('inc/rem.php'); ?>
-    <meta name="description" content="As a leading LED display manufacturer and trusted LED solution provider, Cinstar offers wide range of LED screen display products and integrated services. We have rental LED display, stage LED screen, LED advertising screen and creative LED video display for a variety of applications. " />
+    <meta name="description" content="As a leading LED display manufacturer, Outdoor Led Display, indoor Led Display and trusted LED solution provider, Cinstar offers wide range of LED screen display products and integrated services. We have stage LED screen, LED advertising screen and creative LED video display for a variety of applications." />
     <meta name="keywords" content="LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer" />  
     <meta name="p:domain_verify" content="55405faff2c022df8ded4e9440511b8f"/>
     <meta name="msvalidate.01" content="05393303A9AC7E2D8DCF3B48AD511318" />
-    <title>Cinstar - LED Screen Display, LED Video Display, LED Display Expert</title>
+    <title>LED Display Manufacturer | Indoor & Outdoor LED Display - Cinstar</title>
     <link rel="stylesheet" href="css/main.css">
+
+<!-- Google Search Console Code -->
+<meta name="google-site-verification" content="5VpQfVL4IAimwfIxD84H_qAfILvJMiW-ho8P7s6oce4" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142629338-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142629338-1');
+</script>
+
 </head>
 <body class="page-index">
-    <!-- 头部开始 -->
+    <!-- ???? -->
     <?php include('inc/top.php'); ?>
-    <!-- 头部结束 -->
+    <!-- ???? -->
     <div class="container">
-        <!-- 导航开始 -->
+        <!-- ???? -->
         <div class="banner"> 
             <ul>
+                <li>
+                    <a href="product-detail/ec-series.php">
+                        <img src="images/bg.jpg" alt="ec-series"/>
+                        <span class="view-more bg" style="right:33%;bottom:22%">View More</span>
+                    </a>
+                </li>
                 <li>
                     <a href="product-detail/cr-series.php">
                         <img src="images/bg1-1.jpg" alt="cr-series"/>
@@ -39,10 +72,10 @@
                 
             </ul>
         </div>
-        <!-- 导航结束 -->
-        <!-- 产品开始 -->
+        <!-- ???? -->
+        <!-- ???? -->
         <div class="product">
-            <h1>Cinstar is a professional experienced LED screen display, rental LED display, LED video display, stage LED screen, LED advertising screen, LED display manufacturer, LED advertising display, LED video curtainl, outdoor display board, curtain LED display, mesh LED screen wall, outdoor LED display board, LED screen, LED display, LED video screen, LED video wall, transparent LED display, transparent LED billboard, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+    
             <div class="head-title">
                 <h2>FEATURED PRODUCTS</h2>
             </div>
@@ -113,8 +146,35 @@
                 </div>
             </div>
         </div>
-        <!-- 产品结束 -->
-        <!-- what we do开始 -->
+        <!-- ???? -->
+        <!-- who we do?? -->
+        <div class="text">
+            <div class="head-title">
+                <h2>Who We Are</h2>
+            </div>
+            <div class="seo-container">
+                <div class="seo-item">
+                    <div class="img-cover">
+                        <img src="images/about/1 Reception.jpg" />
+                    </div>
+                    <div class="content-box">
+                        <p>Our company is a globally leading LED video display screen manufacturer that creates durable LED screens to fit the precise demands of our vast and diverse customer range. To adhere to the exact expectations of our client base, we have established a modern manufacturing facility with all the latest and modern technology infused tools and equipment for the fabrication of both indoor LED display and outdoor LED display.</p>
+                        <p>As a well-known LED display manufacturer, outdoor led display our entire LED video screen manufacturing process takes place under the strict supervision of industry specialists. Our defined excellent manufacturing process is constantly evaluated and tested to rule out any possible problem. Furthermore, we periodically update our Indoor and Outdoor LED display fabrication methods in order to incorporate the latest traits in tune with the international practices.</p>
+                    </div>
+                </div>
+                <div class="seo-item">
+                    <div class="content-box">
+                        <p>Our manufactured indoor LED display and outdoor LED display are being heavily employed in retails businesses, corporate clients, brand promotion, malls, etc. They can also be used for advertising and product display reasons. Our made LED screen display are popular among a vast range of clients mostly because of their reliable operational life, quality display, lower power consumptions, slim in size, light weight, compact packaging, bright display in daylight, durable for all weather conditions, and affordable rates.</p>
+                        <p>We take pride in being the authorized and sole solution provider of LED screen display. We are playing a leading role in this industry by providing excellent quality LED video displays for both medium and high-end enterprises.</p>
+                        <p>Transforming your world with an illuminated digital display experience.</p>
+                    </div>
+                    <div class="img-cover">
+                        <img src="images/home/EC2.9-rental-events.jpg"></img>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- what we do?? -->
         <div class="what-we-do">
             <div class="head-title">
                 <h2><a href="products">WHAT WE DO</a></h2>
@@ -192,8 +252,8 @@
             </div>
             
         </div>
-        <!-- what we do结束 -->
-        <!-- why choose cinstar开始 -->
+        
+        <!-- why choose cinstar?? -->
         <div class="choose">
             <div class="head-title choose-header">
                 <h2><a href="about/">WHY CHOOSE CINSTAR</a></h2>
@@ -208,7 +268,7 @@
                                 LED EXPERTS
                         </div>
                         <div class="content">
-                            As industry veterans, our team have managed thousands of LED projects and passionate about fulfilling customer’s ideas by high quality visual LED landscapes.
+                            As industry veterans, our team have managed thousands of LED projects and passionate about fulfilling customer's ideas by high quality visual LED landscapes.
                         </div>
                     </div>
                 </div>
@@ -247,14 +307,15 @@
                                 MANUFACTURING
                         </div>
                         <div class="content">
-                            We believe that quality is critical to satisfying customers. By using a variety of top-class equipment, we manufacture the finest products with the highest quality of standards.
+                            We believe that quality is critical to satisfying customers. By using a variety of top-class equipment, we are the manufacturer of indoor and outdoor led display the finest products with the highest quality of standards.
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- why choose cinstar结束 -->
-        <!-- what our customer say开始 -->
+        <!-- why choose cinstar?? -->
+        <!-- what our customer say?? -->
         <div class="customer">
             <div class="head-title">
                 <h2>what our customers say</h2>
@@ -315,11 +376,9 @@
                     </li>
                 </ul>
             </div>
-            
-            
         </div>
-        <!-- what our customer say结束 -->
-        <!-- case开始 -->
+        <!-- what our customer say?? -->
+        <!-- case?? -->
         <div class="caseStudy">
             <div class="head-title gallery-title">
                 <h2><a href="gallery/">PROJECTS GALLERY</a></h2>
@@ -376,59 +435,73 @@
             </div>
             
         </div>
-        <!-- case结束 -->
-        <!-- news开始 -->
+        <!-- case?? -->
+        <!-- news?? -->
         <div class="news">
             <div class="head-title">
                 <h2><a href="news/">LATEST NEWS</a></h2>
             </div>
             <div class="news-list">
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2019-5-23.php">
-                        <img src="/images/rental/23-rental-case.jpg" alt="Cinstar launched its most practical rental LED display"/>
+                    <a class="news-thumb" href="news-detail/2019-11-6.php">
+                        <img src="/images/news/EC2.9-150sqm-1.jpg" alt="EC2.9-150sqm-1"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
-                            <h3>Cinstar launched its most practical rental LED display</h3>
-                            <p class="date">2019-5-23</p>
+                            <h3>150SQM EC2.9 rental LED kit ready for shipment to Sweden</h3>
+                            <p class="date">2019-11-06</p>
                         </div>
                         <div class="news-desc">
-                        In the past few months, the whole Cinstar R&D team was fighting on the design, test and improvement of our new rental LED display. It is EC series, the truly edge-cutting practical rental LED video display and now is ready to be launched...
+                        Recently, our Swedish customer placed their second purchasing order with Cinstar for their fast growing event production business. It was just 6 months after their first purchase of 100sqm of our EC4.8 outdoor rental kit. All these 150sqm LED display will be applied to a large scale concert touring for its virgin show in January, 2020...
                         </div>
                     </div>
                 </div>
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2019-4-12.php">
-                        <img src="/images/news/news-19-4-12.jpg" alt="Cinstar new website for better browsing experience"/>
+                    <a class="news-thumb" href="news-detail/2019-10-11.php">
+                        <img src="/images/news/Cinstar-HD2.3-2.jpg" alt="Cinstar-HD2.3-2"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
-                            <h3>Cinstar new website for better browsing experience</h3>
-                            <p class="date">2019-4-12</p>
+                            <h3>80 panels of HD2.3 installed at Christ Lutheran Church in USA</h3>
+                            <p class="date">2019-10-11</p>
                         </div>
                         <div class="news-desc">
-                        Recently, Cinstar has redesigned and Improved its website where users can enjoy a much better browsing experience on laptop, desktop, ipad and mobile phone. Come and check out the brand new style, you gonna like it! Besides, we have ...
+                        During Chinese National Day festival, our customer delivered 80 panels of Cinstar HD series 2.3mm to Christ Lutheran Church in California, USA. Before that, the church was using projector for the visual delivering, but they were tired of the inaccuracy brightness of projector and finally decided to replace it with high quality image performance LED display solution. The screen...
                         </div>
                     </div>
                 </div>
                 <div class="news-item">
-                    <a class="news-thumb" href="news-detail/2019-3-15.php">
-                        <img src="/images/news/news1.jpg" alt="Cinstar display lights up Oslo Spektrum Arena"/>
+                    <a class="news-thumb" href="news-detail/2019-8-20.php">
+                        <img src="/images/news/28sqm-EC3.9.jpg" alt="28sqm-EC3.9"/>
                     </a>
                     <div class="news-detail">
                         <div class="news-title">
-                            <h3>Cinstar display lights up Oslo Spektrum Arena</h3>
-                            <p class="date">2019-3-15</p>
+                            <h3>Stunning performance of EC 3.9 on mini-concert in Germany</h3>
+                            <p class="date">2019-8-20</p>
                         </div>
                         <div class="news-desc">
-                            In the past week, Cinstar CR3.9 witnessed a remarkable show at Norway Oslo Spektrum Arena where is primarily known for hosting major events such as annual Nobel Peace Prize Concert, Eurovision Song Contest and concerts by...
+                            Weeks ago, our customer delivered 28sqm EC 3.9mm LED video screen wall (they invested 100sqm for their growing rental business) for one mini concert in Germany. Both our customer and the host were very pleased to the excellent visual performance of the LED wall.It was their first show with our EC series display since they received the equipment,but it turned out to be a big success...
                         </div>
                     </div>
                 </div>
-              
+                <!-- <div class="news-item">
+                    <a class="news-thumb" href="news-detail/2019-7-4.php">
+                        <img src="/images/news/EC2.9-200sqm-1.jpg" alt="EC2.9-200sqm-1"/>
+                    </a>
+                    <div class="news-detail">
+                        <div class="news-title">
+                            <h3>200sqm Cinstar EC2.9 rental LED video display ready for shipment to USA </h3>
+                            <p class="date">2019-7-4</p>
+                        </div>
+                        <div class="news-desc">
+                        Half a month ago, Cinstar confirmed one deal with our USA customer for 200sqm of our EC 2.9 indoor rental LED video display. The whole display will be needed on large scale events and live productions months later. It was the first big order since its launch, but which by no accident, we earned the customer’s trust by high performance of our product and promised service quality...
+                        </div>
+                    </div>
+                </div> -->
+                
             </div>
         </div>
-        <!-- new结束 -->
+        <!-- new?? -->
         <?php include('inc/foot.php'); ?>
     </div>
     <?php include('inc/js.php'); ?>
@@ -450,7 +523,7 @@
             })
             let screenWidth = $(window).width();
             console.log("screenWidth",screenWidth)
-            // 动态计算每个图片的宽度
+            // ???????????
             if(screenWidth>1200) {
                 $('.imgList li').css('width',screenWidth*0.93*0.32)
                 let length = $('.imgList li').length;
@@ -488,5 +561,33 @@
         })
         // $('.imgList').css('left',Math.ceil(-liWidth));
     </script>
+<script type="application/ld+json">
+		{
+		      "@context": "http://schema.org",
+		      "@type": "Organization",
+		      "address": {
+		        "@type": "PostalAddress",
+		        "addressLocality": "Baoan district",
+		        "addressRegion": "Shenzhen, China",
+		        "postalCode": "518000",
+		        "streetAddress": "Building A, Hengchangrong technology park,
+
+Shiyan street"
+		         
+		      },
+	  			
+		      "name": "cinstar",
+		      "alternateName": ["cinstar-led"],
+		      "telephone": "+86-183 2088 9297",
+		      "logo":"https://www.cinstar-led.com/images/logo.png",
+		      "email": "sales@cinstar-led.com",
+		      "url": "https://www.cinstar-led.com",
+		      "sameAs":["https://www.facebook.com/Cinstarled"]
+		    },
+		}
+    </script>
+
+
+    
 </body> 
 </html>

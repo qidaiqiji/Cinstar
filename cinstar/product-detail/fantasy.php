@@ -20,8 +20,7 @@
                     Fantasy Series
                 </div>
             </div>
-            <h1>
-Cinstar is a professional experienced holograhpic LED fan, 3D LED fan, 3D LED display, 3D holographic LED fan, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+           
             <div class="iconImg">
                 <img src="../images/products/fantasy/Fan1-2.jpg" alt="Fantasy Series"/>
             </div>

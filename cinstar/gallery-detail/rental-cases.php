@@ -13,7 +13,7 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container gallery-container">
-        <h1 style="color:#010101">Cinstar is a professional experienced Indoor LED wall, indoor rental LED display, outdoor rental LED display, fine pitch LED video screen, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+       
         <div class="head-title">
             <h2>RENTAL EVENT CASES</h2>
         </div>

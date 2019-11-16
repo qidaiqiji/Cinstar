@@ -19,7 +19,7 @@
             </div>
             <div class="top-title">Cost-Effective Rental LED Display Solutions</div>
         </div>
-        <h1>Cinstar is a professional experienced digital display screens, concert LED screen, LED panel screen, best LED video screen, LED video wall rental, outdoor rental LED videowall, outdoor LED screen hire, event production LED screen, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+   
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

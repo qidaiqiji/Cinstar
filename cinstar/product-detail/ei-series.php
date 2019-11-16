@@ -19,7 +19,7 @@
             </div>
             <div class="top-title">Rental and Install LED Displays</div>
         </div>
-        <h1>Cinstar is a professional experienced LED board manufacturer, cheap LED display, LED video display screen, LED video screen price, LED screen for hire, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+      
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

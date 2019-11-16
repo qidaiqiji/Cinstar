@@ -19,7 +19,7 @@
             </div>
             <div class="top-title">Creative Effect LED Video Display Solutions</div>
         </div>
-        <h1>Cinstar is a professional experienced transparent LED display, LED backdrop curtain, LED mesh display, GOB transparent LED display, advertising transparent LED wall, commercial transparent LED display screen, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+ 
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">

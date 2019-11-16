@@ -13,7 +13,7 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container gallery-container">
-        <h1>Cinstar is a professional experienced  LED video screen supplier, commercial LED screen wall, giant LED billboard, digital LED screen display wall, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+
         <div class="head-title">
             <h2>PROJECTS GALLERY</h2>
         </div>

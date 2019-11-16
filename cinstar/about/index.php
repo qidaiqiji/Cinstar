@@ -14,7 +14,7 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="container about-container">
-        <h1>Cinstar is a Chinese full color LED display, LED screen display, LED screen, LED display, advertising LED display, commercial LED screen, LED screen manufacturer, LED display supplier, LED screen supplier, LED display China.</h1>
+        
         <div class="head-title">
             <h2>WELCOME TO CINSTAR</h2>
         </div>
@@ -58,9 +58,7 @@
             </div>
         </div>
         <div >
-            <!-- <h1>
-                Cinstar is a professional experienced LED display company, Cinstar LED display, Cinstar electronics, LED screen, LED Sign, LED wall, LED panel, LED video screen, LED video wall, Digital LED video screen, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.
-            </h1> -->
+           
             <div class="head-title">
                 <h2>SERVICES CINSTAR PROVIDES</h2>
             </div>

@@ -13,7 +13,7 @@
     <?php include('../inc/top.php'); ?>
     <!-- 头部结束 -->
     <div class="news-container">
-        <h1>Cinstar is a professional experienced Cinstar LED display, Cinstar electronics, transparent LED display, creative LED screen, poster LED wall, Indoor LED display, outdoor LED display, commercial LED display, LED digital signage, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+
         <div class="news-list">
             <div class="head-title">
                 <h2>CINSTAR NEWS CENTER</h2>
@@ -29,6 +29,41 @@
     <?php include('../inc/js.php'); ?>
     <script>
         let data = [
+            {
+                imgSrc:'../images/news/EC2.9-150sqm-1.jpg',
+                title:'150SQM EC2.9 rental LED kit ready for shipment to Sweden',
+                data:'2019-11-6',
+                detail:'Recently, our Swedish customer placed their second purchasing order with Cinstar for their fast growing event production business. It was just 6 months after their first purchase of 100sqm of our EC4.8 outdoor rental kit.All these 150sqm LED display will be applied to a large scale concert touring for its virgin show...',
+                href: '../news-detail/2019-11-6.php'
+            },
+            {
+                imgSrc:'../images/news/Cinstar-HD2.3-2.jpg',
+                title:'80 panels of HD2.3 installed at Christ Lutheran Church in USA',
+                data:'2019-10-11',
+                detail:'During Chinese National Day festival, our customer delivered 80 panels of Cinstar HD series 2.3mm to Christ    Lutheran Church in California, USA. Before that, the church was using projector for the visual delivering, but they were tired of the inaccuracy brightness of projector and finally decided to replace it with...',
+                href: '../news-detail/2019-10-11.php'
+            },
+            {
+                imgSrc:'../images/news/28sqm-EC3.9.jpg',
+                title:'Stunning performance of EC 3.9 on mini-concert in Germany',
+                data:'2019-8-20',
+                detail:'Weeks ago, our customer delivered 28sqm EC 3.9mm LED video screen wall (they invested 100sqm for their growing rental business) for one mini concert in Germany. Both our customer and the host were very pleased to the excellent visual performance of the LED wall.It was their first show with our EC series display since they...',
+                href: '../news-detail/2019-8-20.php'
+            },
+            {
+                imgSrc:'../images/news/EC2.9-200sqm-1.jpg',
+                title:'200sqm Cinstar EC2.9 rental LED video display ready for shipment to USA',
+                data:'2019-7-4',
+                detail:'Half a month ago, Cinstar confirmed one deal with our USA customer for 200sqm of our EC 2.9 indoor rental LED video display. The whole display will be needed on large scale events and live productions months later. It was the first big order since its launch, but which by no accident, we earned the customer’s trust by high...',
+                href: '../news-detail/2019-7-4.php'
+            },
+            {
+                imgSrc:'../images/news/HD1.56-40.5sqm-3.jpg',
+                title:'Cinstar 40.5sqm fine pitch HD1.56 LED video display to France',
+                data:'2019-6-26',
+                detail:'In recent years, with the tremendous market demand on LED display, as a critical category of LED display, fine pitch LED video display got a big increase on the market share and has been widely used for high profile and high end applications for its ultra-high resolution and stunning image performance...',
+                href: '../news-detail/2019-6-26.php'
+            },
             {
                 imgSrc:'../images/news/news-05-23.jpg',
                 title:'Cinstar launched its most practical rental LED display',

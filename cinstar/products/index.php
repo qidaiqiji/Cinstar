@@ -16,7 +16,7 @@
         <div class="product-banner">
             <img src="../images/products/product-home/products-banner.jpg" alt="commercial"/>
         </div>
-        <h1>Cinstar is a professional experienced rental LED display, commercial LED display, creative LED display, creative LED screen display, LED screen, LED screen board, LED wall screen, LED digital screen, LED digital display, LED rental screen display, LED screens for events, LED screen for wedding, LED screen for rental, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, transparent LED display, front service LED display, commercial advertising billboard, LED sign screen, LED board, LED billboard, LED display, LED wall manufacturer</h1>
+      
         <div class="sort-box">
             <div class="head-title">
                 <h2>CINSTAR LED DISPLAY PRODUCTS</h2>

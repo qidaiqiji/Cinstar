@@ -19,7 +19,7 @@
             </div>
             <div class="top-title">DOOH Advertising LED Video Display Specialist</div>
         </div>
-        <h1>Cinstar is a professional experienced outdoor display board, outdoor LED sign boards, outdoor digital screen, commercial LED sign board, front service LED display, LED advertising display board, LED outdoor advertising screens, LED screen, LED display, LED video screen, LED video wall, LED video display, LED screen display, LED display screen, LED screen wall, LED display wall, LED wall display, LED wall video, rental LED display, commercial LED display, creative LED display manufacturer.</h1>
+       
         <!-- 产品参数 -->
         <div class="specification">
             <div class="spec-detail">
